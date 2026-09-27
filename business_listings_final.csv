@@ -1,0 +1,764 @@
+business_name,category,city,address,phone,latitude,longitude,source,original_address,address_precision
+Sterling Hospital Div. Of Addlife Medical Institute Pvt. Ltd.,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380054",9825181745,23.0487566,72.5312683,OpenStreetMap,380054.0,street
+"Medilink Hospital, Ahmedabad",Hospital,Ahmedabad,"132 Ft. Ring Road, Jodhpur, Sarkhej, Gujarat, 380001",,23.0173915,72.5304396,OpenStreetMap,380001.0,street
+Ahmedabad Institute Of Medical Services (Aims),Hospital,Ahmedabad,"Maharshi Ravidranath Tagor Society, Ranna Park, Gujarat, 380007",,23.0033217,72.5639517,OpenStreetMap,380007.0,street
+M B Patel Gyanjyot High School,School,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380061",,23.0702999,72.5460531,OpenStreetMap,380061.0,street
+Gyanda Girls High School,School,Ahmedabad,"CHANDLODIA STATION ROAD, Ranip, Gujarat, 380061",,23.072279,72.5479789,OpenStreetMap,380061.0,street
+Nutan Vidya Vihar,School,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380061",,23.0681554,72.5428774,OpenStreetMap,380061.0,street
+Gol Limbda Bhajiya and Nashta House,Fast Food,Ahmedabad,"Danapith Road, Gita Mandir, Ahmedabad, Gujarat, 380001",,23.0200882,72.5860331,OpenStreetMap,380001.0,street
+Citibank,Bank,Ahmedabad,"Chimanlal Girdharlal Road, Gulbai tekra, Gujarat, 380009",,23.0337365,72.5608865,OpenStreetMap,380009.0,street
+Geeta Maternity Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0836049,72.5901213,OpenStreetMap,380005.0,street
+Sabarmati Development Society Sanchalit Sheth Shri Pukhraj Raichand General Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0829627,72.5906964,OpenStreetMap,380005.0,street
+GCS Medical College Hospital and Research Centre,Hospital,Ahmedabad,"Doctor Ambedkar Flyover, Asarwa, Gujarat, 380025",7966048000,23.0389267,72.6107232,OpenStreetMap,380025.0,street
+Sunflower Womens Endo Infertility and Hospital Pvt. Ltd.,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",,23.0457576,72.5412888,OpenStreetMap,380052.0,street
+May Flower Womens Hospital Pvt. Ltd.,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",,23.0455774,72.5419051,OpenStreetMap,380052.0,street
+BalMukund Hospital,Hospital,Ahmedabad,"Tirupati Road, New Ranip, Gujarat, 382480",,23.0932069,72.5592841,OpenStreetMap,382480.0,street
+Kameshwar School,School,Ahmedabad,"Judges Bunglow Road, Vastrapur, Gujarat, 380015",,23.0282166,72.5271318,OpenStreetMap,380015.0,street
+Bank of Baroda,Bank,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380015",,23.013352,72.5298603,OpenStreetMap,380015.0,street
+Shree Bharti Vallabh Hospital,Hospital,Ahmedabad,"Shahibaug Flyover, Madhupura, Gujarat, 380004",,23.0495869,72.5928806,OpenStreetMap,380004.0,street
+"Kasturba Hospital, Ahmedabad",Hospital,Ahmedabad,"SH1;SH20, Dhandhuka, Gujarat, 382460",,22.3812599,71.9763587,OpenStreetMap,382460.0,street
+"Kunal Medical Hospital, Ahmedabad",Hospital,Ahmedabad,"Hatkeshwar Khokhra Flyover, Khokhra, Gujarat, 380008",,22.9982535,72.6250631,OpenStreetMap,380008.0,street
+Ortho Kids Clinic,Clinic,Ahmedabad,"132 Ft. Ring Road, Jodhpur, Sarkhej, Gujarat, 380052",,23.018609,72.5297897,OpenStreetMap,380052.0,street
+Nandan Maternity Home,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.052184,72.5339005,OpenStreetMap,380052.0,street
+"Kalrav Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0501988,72.5374953,OpenStreetMap,380052.0,street
+Cornea Foundation Hospital,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",,23.0461279,72.5364487,OpenStreetMap,380052.0,street
+Prathna Surgical And Medical Hospital,Hospital,Ahmedabad,"PayalPark society Road, Sahijpur, Gujarat, 382345",,23.056598,72.6411603,OpenStreetMap,382345.0,street
+Arihant Fracture and Orthopedic Hospital,Hospital,Ahmedabad,"Dharanidhar Flyover, Vasna, Gujarat, 380015",,23.0133094,72.545561,OpenStreetMap,380015.0,street
+Chandrabhan Hospital and Gynac Institute,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0499504,72.5338505,OpenStreetMap,380052.0,street
+"Jeevandeep Hospital, Sardanagar",Hospital,Ahmedabad,"Airport Road, Ambavadi / kubernagar, Gujarat, 382475",,23.0856728,72.6335469,OpenStreetMap,382475.0,street
+"Jagmohan Hospital, Ahmedabad",Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380009",7927540336,23.0383141,72.567755,OpenStreetMap,380009.0,street
+Vasudha Eye Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0834466,72.5895064,OpenStreetMap,380005.0,street
+"Dhwani General Hospital, Nursing Home and Materity Home",Hospital,Ahmedabad,"Ramrajya Flyover, Jantanagar -Ramol, Gujarat, 382415",,23.0146498,72.6448899,OpenStreetMap,382415.0,street
+Kakadiya Hospital,Hospital,Ahmedabad,"Lal Bahadur Shastri Road, Sahijpur, Gujarat, 380025",,23.0401061,72.6302853,OpenStreetMap,380025.0,street
+Samarpan Maternity And Urosurgical Hospital,Hospital,Ahmedabad,"Thaltej Road, Thaltej, Gujarat, 380059",,23.0506982,72.5157067,OpenStreetMap,380059.0,street
+"Sankalp Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Gupta Nagar road, Jivraj park, Sarkhej, Gujarat, 380051",,23.0052925,72.5372402,OpenStreetMap,380051.0,street
+Suvan Eye Care,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382345",,23.0577024,72.6369452,OpenStreetMap,382345.0,street
+Matrupooja Eye Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382443",,22.9745791,72.6024091,OpenStreetMap,382443.0,street
+Shaishav Children Hospital And Neonatal Care Unit,Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",7926828443,23.0034352,72.5187524,OpenStreetMap,380051.0,street
+"Mehta Hospital, Siddhachal",Hospital,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380054",,23.047633,72.5258862,OpenStreetMap,380054.0,street
+Lifecare Emergency Centre,Hospital,Ahmedabad,"RiverFront Road, Khadia, Ahmedabad, Gujarat, 380001",,23.0333194,72.5789867,OpenStreetMap,380001.0,street
+Bavishi Hospital,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0133482,72.5641099,OpenStreetMap,380007.0,street
+Poojan Children Hospital And Neonatal Care Centre,Hospital,Ahmedabad,"Gota Road Underpass, Nirnay Nagar, Gujarat, 382481",,23.072936,72.5591491,OpenStreetMap,382481.0,street
+Shanti Multi Speciality Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",,23.0241738,72.5295308,OpenStreetMap,380015.0,street
+Cutis Cosmetic Plastic Surgery Centre,Hospital,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380061",,23.0589018,72.537851,OpenStreetMap,380061.0,street
+Rathi Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",,23.0228001,72.5261003,OpenStreetMap,380015.0,street
+Minal Infertility Clinic and Nursing Home,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0519495,72.5608003,OpenStreetMap,380013.0,street
+"Raj Nursing Home, Ahmedabad",Clinic,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0524295,72.6002191,OpenStreetMap,380016.0,street
+Navkar Surgical Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380013",,23.0486991,72.5665131,OpenStreetMap,380013.0,street
+"Navjyot Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"BRTS Station, Usmanpura, Gujarat, 380013",,23.0575049,72.5703567,OpenStreetMap,380013.0,street
+Aarna Super Speciality Hospital,Hospital,Ahmedabad,"Chimanlal Girdharlal Road, Paldi, Gujarat, 380007",,23.014477,72.5597177,OpenStreetMap,380007.0,street
+"Shalin Hospital, Ahmedabad",Hospital,Ahmedabad,"Dharanidhar Flyover, Vasna, Gujarat, 380015",,23.0130378,72.5456992,OpenStreetMap,380015.0,street
+Talsania Clinic,Clinic,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 380006",,23.0178468,72.5582948,OpenStreetMap,380006.0,street
+Samata Hospital Pvt.Ltd,Hospital,Ahmedabad,"Gota Road, New Ranip, Gujarat, 382481",,23.0827039,72.5469075,OpenStreetMap,382481.0,street
+Amijeet Maternity Hospital,Hospital,Ahmedabad,"1st Line, Nirnay Nagar, Gujarat, 382481",,23.0731324,72.5595813,OpenStreetMap,382481.0,street
+Shreeji Orthopaedic And Ent Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0471787,72.5333127,OpenStreetMap,380052.0,street
+Anand Hospital and Multispeciality,Hospital,Ahmedabad,"NH8, Thakkarabapa Nagar, Gujarat, 382350",,23.0459742,72.6406024,OpenStreetMap,382350.0,street
+Shivam Orthopaedic and Gynec Hospital,Hospital,Ahmedabad,"Sargam Marg, Vastrapur, Gujarat, 380015",,23.0363111,72.5325295,OpenStreetMap,380015.0,street
+Satyam Children Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.1148697,72.5838657,OpenStreetMap,382424.0,street
+Kadam Maternity Home and Sonography Clinic,Clinic,Ahmedabad,"Kankaria Lake Front Walkway, Sherkotda, Gujarat, 380022",,23.0061658,72.5959302,OpenStreetMap,380022.0,street
+Aakshardeep Eye Hospital,Hospital,Ahmedabad,"Judges Bunglow Road, Vastrapur, Gujarat, 380015",,23.0324778,72.5245567,OpenStreetMap,380015.0,street
+"Maruti Orthopedic Hospital, Nava Vadaj",Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0674244,72.5611098,OpenStreetMap,380013.0,street
+Chetna Maternity Home,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0467529,72.5695668,OpenStreetMap,380014.0,street
+"Akshardeep Orthopaedic Hospital, Shahibaug",Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0539474,72.5955185,OpenStreetMap,380004.0,street
+Tapan Hospital Pvt Ltd,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380024",,23.0360347,72.6297381,OpenStreetMap,380024.0,street
+Udit Hospital Multi Speciality,Hospital,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380054",,23.0502539,72.5209209,OpenStreetMap,380054.0,street
+Saumya Children Hospital and Neonatal Care Center,Hospital,Ahmedabad,"Satellite Road, Ambawadi, Gujarat, 380015",,23.0217867,72.5420675,OpenStreetMap,380015.0,street
+Life Care Institute Of Medical Sciences Research Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0474527,72.5616422,OpenStreetMap,380014.0,street
+Vanza Hospital,Hospital,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 380058",,23.0307499,72.4740118,OpenStreetMap,380058.0,street
+Niyati Ent Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380006",,23.0201192,72.5615162,OpenStreetMap,380006.0,street
+"Metalia Hospital and ICCU, Diamond Market",Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380024",,23.0361821,72.6297938,OpenStreetMap,380024.0,street
+Chitrakut Surgical Hospital,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380024",,23.0352325,72.6254641,OpenStreetMap,380024.0,street
+Jivansudha Heart and Medical Hospital,Hospital,Ahmedabad,"Hanuman sing road, Asarwa, Gujarat, 380016",,23.0487003,72.6059912,OpenStreetMap,380016.0,street
+Marengo CIMS Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380060",+91-79-48051200,23.0700266,72.5173965,OpenStreetMap,380060.0,street
+Sneh Orthopaedic Hospital,Hospital,Ahmedabad,"Chitrakar Vasudev Pandya Marg, Vasna, Ahmedabad, Gujarat, 380007",,23.0024291,72.5542313,OpenStreetMap,380007.0,street
+Dr Sanjay Gandhi Hospital,Hospital,Ahmedabad,"Apang Manav Mandal Road, Panjrapole, Gujarat, 380006",,23.02741,72.5411409,OpenStreetMap,380006.0,street
+Om Pediatric and Neonatal Criticare Hospital,Hospital,Ahmedabad,"SH71, Gujarat, 380005",,23.0997283,72.5914751,OpenStreetMap,380005.0,street
+Priyal Hospital,Hospital,Ahmedabad,"Nikol-Naroda Road, Nava Naroda, Gujarat, 389260",,23.0605503,72.6644231,OpenStreetMap,389260.0,street
+"Anand Multi Speciality Hospital, Ahmedabad",Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380005",,23.0551196,72.5975604,OpenStreetMap,380005.0,street
+Dr Rupesh Shah Killol Children Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380015",,23.0396088,72.5659485,OpenStreetMap,380015.0,street
+Kalyani Nursing Home and Sonography Clinic,Clinic,Ahmedabad,"Jantanagar road, New Ranip, Gujarat, 380019",,23.1022078,72.571388,OpenStreetMap,380019.0,street
+"Jeevandeep Hospital, Shashibaug",Hospital,Ahmedabad,"Dr. Ambedkar Road, Madhupura, Gujarat, 380004",,23.0494136,72.5906771,OpenStreetMap,380004.0,street
+Naresh Hospital,Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",,23.0034167,72.518633,OpenStreetMap,380051.0,street
+"Shraddha Surgical Hospital, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0482276,72.5333825,OpenStreetMap,380052.0,street
+Baps Yogiji Maharaj Hospital,Hospital,Ahmedabad,"Dr. Ambedkar Road, Madhupura, Gujarat, 380004",,23.0462013,72.5887862,OpenStreetMap,380004.0,street
+Gynaecare Women's Hospital,Hospital,Ahmedabad,"100 Ft. Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0134377,72.5265187,OpenStreetMap,380015.0,street
+Rhythm Cardio Pulmonory Care Centre and Medical Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0521189,72.5608045,OpenStreetMap,380013.0,street
+Aarti Surgical Nursing Home,Hospital,Ahmedabad,"BRTS Route, Dalal Colony, Gujarat, 380008",,22.9960097,72.6121724,OpenStreetMap,380008.0,street
+Navkar Ear Nose Throat Hospital,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0083964,72.561315,OpenStreetMap,380007.0,street
+Gitanjali Children Hospital,Hospital,Ahmedabad,"Machhli circle road, Nava Naroda, Gujarat, 382350",,23.0738176,72.6595862,OpenStreetMap,382350.0,street
+Shilp E.N.T Clinic and Hospital,Hospital,Ahmedabad,"New C.G. Road, Chandkheda, Gujarat, 382424",,23.1089581,72.5930405,OpenStreetMap,382424.0,street
+Shreeji Children Hospital,Hospital,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 380058",,23.0294544,72.4747232,OpenStreetMap,380058.0,street
+Shivam Surgical Hospital,Hospital,Ahmedabad,"Rakhiyal Road, Naroda, Gujarat, 382330",,23.0730267,72.6528769,OpenStreetMap,382330.0,street
+Parimal Multispeciality Hospital,Hospital,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 380006",,23.0172667,72.5577027,OpenStreetMap,380006.0,street
+Netra Jyoti Eye and Ent Hospital,Hospital,Ahmedabad,"New C.G. Road, Chandkheda, Gujarat, 382424",,23.1093376,72.588505,OpenStreetMap,382424.0,street
+Shrey Hospital,Hospital,Ahmedabad,"Krupa Shankar Joshi Marg, Usmanpura, Gujarat, 380009",,23.0376566,72.5647707,OpenStreetMap,380009.0,street
+Apex Heart Institute,Hospital,Ahmedabad,"Thaltej Underpass, Bodakdev, Gujarat, 380054",,23.0457442,72.5139306,OpenStreetMap,380054.0,street
+Het Eye Care,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0085551,72.5625072,OpenStreetMap,380007.0,street
+"Utkarsh Hospital, Ahmedabad",Hospital,Ahmedabad,"Jantanagar road, Chandkheda, Gujarat, 380001",,23.1078991,72.5783663,OpenStreetMap,380001.0,street
+Hemato-Oncology Clinic,Clinic,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380004",,23.0402628,72.5598451,OpenStreetMap,380004.0,street
+"Tilak Hospital (Multispeciality), Ahmedabad",Hospital,Ahmedabad,"Anil Strach Mill Road, Asarwa, Gujarat, 380024",,23.0334255,72.6222763,OpenStreetMap,380024.0,street
+"Sagar Orthopaedic Hospital, Bapunagar",Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380024",,23.0362408,72.630339,OpenStreetMap,380024.0,street
+Kalrav Nenotal And Children Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Shastri Nagar, Gujarat, 380001",,23.0389968,72.6365779,OpenStreetMap,380001.0,street
+Hina Maternity Nursing Home,Clinic,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380013",,23.056809,72.5450407,OpenStreetMap,380013.0,street
+Panchshil Hospital,Hospital,Ahmedabad,"Motera- chandkheda road, Sabarmati, Gujarat, 380005",,23.0843348,72.5919754,OpenStreetMap,380005.0,street
+Smruti Eye Hospital,Clinic,Ahmedabad,"Lal Bahadur Shastri Road, Sahijpur, Gujarat, 380025",,23.0395468,72.6302717,OpenStreetMap,380025.0,street
+Welcare Women's Hospital,Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380009",,23.0453225,72.5623058,OpenStreetMap,380009.0,street
+Shivam Eye Hospital,Clinic,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9994009,72.6359743,OpenStreetMap,380026.0,street
+Arpan Newborncare Centre,Hospital,Ahmedabad,"hostel road, Panjrapole, Gujarat, 380009",26461475,23.0411016,72.5474321,OpenStreetMap,380009.0,street
+Sheth Hospital and Maternity Home,Hospital,Ahmedabad,"120 Circular Road, Ranna Park, Gujarat, 380007",,23.0023106,72.554928,OpenStreetMap,380007.0,street
+Shubham Ent Hospital,Hospital,Ahmedabad,"Odhav Road, Gujarat, 382415",,23.0217991,72.645708,OpenStreetMap,382415.0,street
+Chhaya Maternity Nursing Home,Clinic,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",7925391280,22.9798599,72.599806,OpenStreetMap,382443.0,street
+Mangeet Medical Nursing Home and Heart Care,Clinic,Ahmedabad,"Bhudarpura Road, Ambawadi, Gujarat, 380006",,23.0187491,72.5542206,OpenStreetMap,380006.0,street
+Vasundhara Medical Hospital,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380026",,23.0348264,72.6252736,OpenStreetMap,380026.0,street
+Shridhaj Orthopaedic Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380051",,23.0057708,72.5330586,OpenStreetMap,380051.0,street
+Clear Vision Eye Hospital (Unit 2),Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380052",,23.026235,72.5252219,OpenStreetMap,380052.0,street
+"Jatan Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0664632,72.5628076,OpenStreetMap,380013.0,street
+Pulse Iccu and Hospital,Hospital,Ahmedabad,"Mewavala Nagar Tenaments, Usmanpura, Gujarat, 380013",,23.0604581,72.566667,OpenStreetMap,380013.0,street
+Dr. Kaushik Vaidhya Medical Nursing Home,Clinic,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380063",,23.0567189,72.5449233,OpenStreetMap,380063.0,street
+"Shree Raj Hospital, Ahmedabad",Hospital,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380052",,23.0461853,72.5326094,OpenStreetMap,380052.0,street
+Lekhadia Hospital,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0042154,72.5557615,OpenStreetMap,380007.0,street
+Odhav Orthopaedic Hospital,Hospital,Ahmedabad,"Ramrajya Flyover, Jantanagar -Ramol, Gujarat, 382415",,23.0123687,72.6450308,OpenStreetMap,382415.0,street
+Royal Maternity and Nursing Home,Clinic,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 380058",,23.0306956,72.4726787,OpenStreetMap,380058.0,street
+Ami-Sagar Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0686632,72.5667344,OpenStreetMap,380013.0,street
+Amijyot Eye Hospital,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0074188,72.5589721,OpenStreetMap,380007.0,street
+Khara Fracture and Orthopaedic Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0826952,72.5887057,OpenStreetMap,380005.0,street
+Dr. Dilip Modi Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380006",,23.0285678,72.5714216,OpenStreetMap,380006.0,street
+Ratnam Eye Hospital,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380006",,23.0082903,72.5595085,OpenStreetMap,380006.0,street
+Navjivan Orthopaedic and Maternity Hospital,Hospital,Ahmedabad,"NH8, Thakkarabapa Nagar, Gujarat, 382346",,23.0536919,72.6427073,OpenStreetMap,382346.0,street
+"Akshar Surgical Hospital, Maninagar",Hospital,Ahmedabad,"BRTS Route, Uttamnagar, Gujarat, 380008",,22.9950715,72.6075442,OpenStreetMap,380008.0,street
+Synergy Neonatal and Pediatric Centre,Hospital,Ahmedabad,"BRTS Route, Uttamnagar, Gujarat, 380008",7925470266,22.9957344,72.6082537,OpenStreetMap,380008.0,street
+Anand Surgical Hospital Ltd.,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382345",,23.0549888,72.630925,OpenStreetMap,382345.0,street
+Navneet Memorial Hospital,Hospital,Ahmedabad,"Krupa Shankar Joshi Marg, Gulbai tekra, Gujarat, 380001",,23.0309628,72.561022,OpenStreetMap,380001.0,street
+Chandandwar Hospital,Hospital,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380052",,23.0475378,72.5265107,OpenStreetMap,380052.0,street
+Jhanvi Fracture and Orthopaedic Hospital,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380050",,22.988069,72.6053086,OpenStreetMap,380050.0,street
+Chandramani Hospital,Hospital,Ahmedabad,"Shahibaug Flyover, Shahibaug, Gujarat, 380004",,23.0488268,72.5948212,OpenStreetMap,380004.0,street
+Chaturbhai Mavawala Kidney Hospital and Laparoscopic,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380009",26580064,23.0366258,72.5699088,OpenStreetMap,380009.0,street
+Abhishek Hospital and Heart Centre,Hospital,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.9995355,72.6079452,OpenStreetMap,380008.0,street
+Dr.Atul Shah Eye Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.061092,72.535484,OpenStreetMap,380061.0,street
+Gandhi Uro Care,Hospital,Ahmedabad,"Ashram Road, Ambawadi, Gujarat, 380006",,23.0165285,72.5663348,OpenStreetMap,380006.0,street
+Dhwani Children Hospital,Hospital,Ahmedabad,"Gandhi Road, Khadia, Ahmedabad, Gujarat, 380001",,23.0222866,72.5941667,OpenStreetMap,380001.0,street
+Umiya Surgical Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380052",,23.059151,72.5507015,OpenStreetMap,380052.0,street
+Sannidhya Hospital,Hospital,Ahmedabad,"Paldi Underpass, Ambawadi, Gujarat, 380006",,23.0183023,72.5626011,OpenStreetMap,380006.0,street
+"Jankalyan Hospital, Ahmedabad",Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380028",,23.0013354,72.5905041,OpenStreetMap,380028.0,street
+Dhruv Health Care,Clinic,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380001",,22.9925296,72.6318021,OpenStreetMap,380001.0,street
+Livewell Pain & Spine Hospital,Hospital,Ahmedabad,"Dr. Vikram Sarabhai Flyover, Vastrapur, Gujarat, 380052",,23.0456264,72.5420791,OpenStreetMap,380052.0,street
+Tulip Women's Hospital,Hospital,Ahmedabad,"lal bahadur shashtri road, Jodhpur, Sarkhej, Gujarat, 380015",,23.020171,72.5189468,OpenStreetMap,380015.0,street
+Matulya ENT Clinic,Clinic,Ahmedabad,"132 Ft. Ring Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0200451,72.5298192,OpenStreetMap,380015.0,street
+"Parimal Hospital, Ahmedabad",Hospital,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.9997731,72.6090623,OpenStreetMap,380008.0,street
+Jyoti Maternity Hospital,Hospital,Ahmedabad,"Satellite Road, Ambawadi, Gujarat, 380015",,23.0221879,72.5385243,OpenStreetMap,380015.0,street
+"Centre For Sight, Ahmedabad",Hospital,Ahmedabad,"Umashankar Joshi Marg, Gulbai tekra, Gujarat, 380009",,23.0328801,72.5554597,OpenStreetMap,380009.0,street
+Jyoti Eye Hospital- Phaco Laser Centre,Hospital,Ahmedabad,"Chimanlal Girdharlal Road, Paldi, Gujarat, 380007",,23.0121836,72.5589976,OpenStreetMap,380007.0,street
+Dr Ajay Praful Munshi Surgical Nursing Home,Hospital,Ahmedabad,"120 Circular Road, Ranna Park, Gujarat, 380007",,23.0012243,72.5601871,OpenStreetMap,380007.0,street
+Ratan Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380028",,23.000933,72.595249,OpenStreetMap,380028.0,street
+"Pooja Hospital, Ahmedabad",Hospital,Ahmedabad,"Sant Rohidas Road, Kalapi nagar, Gujarat, 380028",,23.0562136,72.6207709,OpenStreetMap,380028.0,street
+Shilp Orthopaedics And Trauma Centre,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9830966,72.6028711,OpenStreetMap,380050.0,street
+Shashvat Child Care,Clinic,Ahmedabad,"Ramkrishna Parmarth Marg, Khokhra, Gujarat, 380008",,22.9910938,72.6174791,OpenStreetMap,380008.0,street
+Sardar Hosital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380028",,22.9990899,72.6009165,OpenStreetMap,380028.0,street
+Clear Vision Eye Hospital (Unit 3),Hospital,Ahmedabad,"Vatwa Road, Maninagar, Gujarat, 380008",,23.0001972,72.6048513,OpenStreetMap,380008.0,street
+Riddhi Medical Nursing Home,Clinic,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",7965237760,22.993832,72.6037985,OpenStreetMap,380008.0,street
+Kothari Onco Surgical Hospital,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",,22.9961937,72.6038629,OpenStreetMap,380008.0,street
+Nilkanth Hospital,Hospital,Ahmedabad,"Dalal Colony, Maninagar, Gujarat, 380008",,22.9914752,72.611707,OpenStreetMap,380008.0,street
+Ansuya General Hospital,Hospital,Ahmedabad,"Dalal Colony, Maninagar, Gujarat, 380008",,22.9906258,72.6125311,OpenStreetMap,380008.0,street
+"Aastha Hospital, Ahmedabad",Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9979479,72.6109077,OpenStreetMap,380008.0,street
+Ahmedabad Medical Centre,Hospital,Ahmedabad,"BRTS Route, Dalal Colony, Gujarat, 380008",,22.9957122,72.6118974,OpenStreetMap,380008.0,street
+Dr Sunil Shah's Eye Hospital,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",7925462847,22.9968677,72.6037475,OpenStreetMap,380008.0,street
+"Kamal Hospital, Ahmedabad",Hospital,Ahmedabad,"BRTS Station, Dalal Colony, Gujarat, 380008",,22.9947147,72.6119833,OpenStreetMap,380008.0,street
+Manoramya Children Hospital and Neonatal Centre,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",25464418,22.9956326,72.6039098,OpenStreetMap,380008.0,street
+Lavingia Orthopedic Hospital,Hospital,Ahmedabad,"Uttam nagar park road, Uttamnagar, Gujarat, 380008",,22.9922814,72.6059188,OpenStreetMap,380008.0,street
+"Nidhi Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Nidhi Appartment, Naranpura, Gujarat, 380009",,23.061941,72.5518066,OpenStreetMap,380009.0,street
+Modi Eye Care,Clinic,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380009",,23.0578438,72.5497999,OpenStreetMap,380009.0,street
+"Panchal Urology Centre, Ahmedabad",Hospital,Ahmedabad,"120 Feet Ring Road, Gulbai tekra, Gujarat, 380009",,23.0437233,72.5501624,OpenStreetMap,380009.0,street
+Hari Urosurgical Hospital and Andrology Centre,Hospital,Ahmedabad,"Commerce College Road, Usmanpura, Ahmedabad, Gujarat, 380013",,23.0381253,72.5591853,OpenStreetMap,380013.0,street
+Usha - Deep Hospital and Nursing Home,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380015",,23.0522086,72.5598143,OpenStreetMap,380015.0,street
+Bhavasar Eye Hospital and Maternity Nursing Home,Hospital,Ahmedabad,"120 Feet Ring Road, Vasna, Gujarat, 380007",,23.0086507,72.5485202,OpenStreetMap,380007.0,street
+Devi Hospital,Hospital,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380013",,23.0559588,72.5397232,OpenStreetMap,380013.0,street
+Shruti Maternity and Surgical Nursing Home,Clinic,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380063",,23.0566239,72.5448717,OpenStreetMap,380063.0,street
+Kaizen Hospital,Hospital,Ahmedabad,"Dr. Vikram Sarabhai Flyover, Vastrapur, Gujarat, 380052",,23.0469757,72.5436849,OpenStreetMap,380052.0,street
+Milan Orthopaedic and Fracture Hospital,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",07927460049,23.0462186,72.5338653,OpenStreetMap,380052.0,street
+Aroma Womens Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0544607,72.53364,OpenStreetMap,380052.0,street
+"Jain Hospital And Icu, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0470491,72.533298,OpenStreetMap,380052.0,street
+Shreekrishna Hospital and Health Care Centre,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0583588,72.533251,OpenStreetMap,380052.0,street
+Raghudeep Eye Clinic,Clinic,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380052",,23.0469763,72.5276975,OpenStreetMap,380052.0,street
+P.N.Desai Eye Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0497418,72.531753,OpenStreetMap,380052.0,street
+"Jaydeep Hospital, Ahmedabad",Hospital,Ahmedabad,"St. Xavier's School Road, Memnagar, Gujarat, 380052",,23.0474249,72.5505593,OpenStreetMap,380052.0,street
+Sharda Eye Hospital Phaco And Laser Centre - Ahmedabad,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0500997,72.5338753,OpenStreetMap,380052.0,street
+Shantnam Eye Care Hospital,Hospital,Ahmedabad,"Dr. Vikram Sarabhai Flyover, Vastrapur, Gujarat, 380052",,23.0456349,72.5419961,OpenStreetMap,380052.0,street
+Smruti Fracture Orthopedic Hospital,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",,23.0463111,72.5345345,OpenStreetMap,380052.0,street
+Rajvee Ortho Spine and Child Neuro Hospital,Hospital,Ahmedabad,"Drive-in Road, Vastrapur, Gujarat, 380052",,23.0455787,72.5418225,OpenStreetMap,380052.0,street
+Kidney And Urology Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0492285,72.5334294,OpenStreetMap,380052.0,street
+"Neil Hospital, Ahmedabad",Hospital,Ahmedabad,"Subhash Chowk, Memnagar, Gujarat, 380052",,23.0529941,72.5305755,OpenStreetMap,380052.0,street
+Surveen Children Hospital And Vaccination Centre,Hospital,Ahmedabad,"Service road - Sarkhej Gandhinagar Highway, Bodakdev, Gujarat, 380054",,23.0553553,72.5209102,OpenStreetMap,380054.0,street
+Avataran Eye Hospital and Oculoplasty Clinic,Hospital,Ahmedabad,"Aurobindo Society Road, Bodakdev, Gujarat, 380054",,23.0371812,72.522199,OpenStreetMap,380054.0,street
+Akshay Heart and Medical Hospital,Hospital,Ahmedabad,"Judges Bunglow Road, Vastrapur, Gujarat, 382418",26751386,23.0311411,72.5271638,OpenStreetMap,382418.0,street
+Samdev Urology and Surgery Clinic,Clinic,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0402999,72.5583807,OpenStreetMap,380009.0,street
+Nova Pulse Ivf Clinic Ahmedabad Pvt.Ltd.,Clinic,Ahmedabad,"Commerce College Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0385165,72.5585751,OpenStreetMap,380009.0,street
+"Aalok Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380009",,23.0481314,72.5716656,OpenStreetMap,380009.0,street
+Dr. Manish Ravals Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380013",,23.0542867,72.5720197,OpenStreetMap,380013.0,street
+Harsh Neurosurgical Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380013",,23.0541596,72.5720304,OpenStreetMap,380013.0,street
+Bodycare Orthopaedic and Trauma Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380013",,23.0542275,72.5720505,OpenStreetMap,380013.0,street
+"Shalin Eyecare Hospital, Ahmedabad",Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0472984,72.5622028,OpenStreetMap,380014.0,street
+"Devasya Kidney and Multi speciality Hospital, Ahmedabad",Hospital,Ahmedabad,"BRTS Station, Usmanpura, Gujarat, 380013",7927642100,23.0575728,72.5703634,OpenStreetMap,380013.0,street
+Manshi Multispeciality Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0670629,72.5621612,OpenStreetMap,380013.0,street
+"Vardan Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Gota Road Underpass, Nirnay Nagar, Gujarat, 382481",,23.0728484,72.5590418,OpenStreetMap,382481.0,street
+"Kumud Heart Hospital and Medical Nursing Home, Ahmedabad",Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0606194,72.5578952,OpenStreetMap,380013.0,street
+Matruchhaya Children Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0584236,72.5594985,OpenStreetMap,380013.0,street
+Neo Children Hospital,Hospital,Ahmedabad,"Shastri nagar, Naranpura, Gujarat, 380063",,23.0643212,72.5500202,OpenStreetMap,380063.0,street
+"Aastha Orthopaedic Hospital, Ahmedabad",Hospital,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 380007",,23.0296366,72.4742572,OpenStreetMap,380007.0,street
+Aarambh Heart and Medical Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380013",,23.0591455,72.5558715,OpenStreetMap,380013.0,street
+Sanghvi Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380013",,23.0584884,72.5554725,OpenStreetMap,380013.0,street
+Riddhi Maternity Home,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380013",,23.0584551,72.5555255,OpenStreetMap,380013.0,street
+Pruthvi Medical Nursing Home and Heart Centre,Clinic,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0477513,72.5626641,OpenStreetMap,380014.0,street
+Lady Care Womens Hospital Child Care,Hospital,Ahmedabad,"Pujya Ravishankar Maharaj Flyover, Naranpura, Gujarat, 380013",,23.0538437,72.5476894,OpenStreetMap,380013.0,street
+Ankur Superspeciality Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380013",,23.0585304,72.5562523,OpenStreetMap,380013.0,street
+Kirenben Maternity And Nursing Home,Clinic,Ahmedabad,"Ramdevnagar road, Ramdev nagar, Gujarat, 380015",,23.02251,72.5117853,OpenStreetMap,380015.0,street
+Parth Maternity and Medical Nursing Home,Clinic,Ahmedabad,"NH8, Naroda, Gujarat, 382346",,23.0542201,72.6429051,OpenStreetMap,382346.0,street
+Jeel Children Hospital And Neonatal and Vaccination Center,Hospital,Ahmedabad,"Duffnala Road, Shahibaug, Gujarat, 380004",,23.0549308,72.6008186,OpenStreetMap,380004.0,street
+Divya Jeevan Medical Hospital,Hospital,Ahmedabad,"Ramrajya Flyover, Jantanagar -Ramol, Gujarat, 382415",,23.0127168,72.6389033,OpenStreetMap,382415.0,street
+"Kalpana Maternity and Nursing Home, Ahmedabad",Clinic,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0636536,72.5310852,OpenStreetMap,380061.0,street
+Sanket Children Hospial,Hospital,Ahmedabad,"Ashwin Society, Ranna Park, Gujarat, 380007",,23.0073805,72.5589064,OpenStreetMap,380007.0,street
+Sivmm Kidney Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380001",,23.0834799,72.5912216,OpenStreetMap,380001.0,street
+U. N.Mehta Institute Of Cardiology and Research Centre,Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0527257,72.6013067,OpenStreetMap,380016.0,street
+Shreeji Neonatal and Child Care,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0544261,72.5959396,OpenStreetMap,380004.0,street
+Sharda Eye Hospital,Hospital,Ahmedabad,"SH41, Sabarmati, Gujarat, 395007",,23.0870576,72.5920974,OpenStreetMap,395007.0,street
+Urva Children Hospital and Neonatal Care,Hospital,Ahmedabad,"100 Ft. Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0133822,72.5264731,OpenStreetMap,380015.0,street
+Arthro Care Hospital,Hospital,Ahmedabad,"Aurobindo Society Road, Bodakdev, Gujarat, 380054",,23.0405047,72.5211865,OpenStreetMap,380054.0,street
+Kheteswar Medical Educational and Research Centre Hospital,Hospital,Ahmedabad,"Usmanpura Underpass, Usmanpura, Gujarat, 380013",,23.0471775,72.5654282,OpenStreetMap,380013.0,street
+Shail Eye Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0521364,72.5609992,OpenStreetMap,380013.0,street
+Shah Hospital - Vadaj,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380013",,23.052411,72.5697197,OpenStreetMap,380013.0,street
+"Sarthak Orthopaedic Hospital, Parimal Crosssing",Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380006",,23.0194415,72.5586167,OpenStreetMap,380006.0,street
+Dhruvi ENT Hospital,Hospital,Ahmedabad,"SH41, Sabarmati, Gujarat, 380005",,23.0872193,72.5922891,OpenStreetMap,380005.0,street
+Sanand Janta Multispeciality Hospital,Hospital,Ahmedabad,"SH144, Sanand, Gujarat, 380013",,22.9872616,72.3812664,OpenStreetMap,380013.0,street
+Sarvamangal Women Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380015",07926769911; 26769922,23.0134142,72.5304092,OpenStreetMap,380015.0,street
+Stavya Spine Hospital and Research Institute,Hospital,Ahmedabad,"Purshottam Malvankar Marg, Gulbai tekra, Gujarat, 380006",,23.0259277,72.5660652,OpenStreetMap,380006.0,street
+Vatsalya Maternity Nursing Home,Clinic,Ahmedabad,"Judges Bunglow Road, Bodakdev, Gujarat, 380054",,23.0344821,72.5212294,OpenStreetMap,380054.0,street
+"Kothari Hospital, Ahmedabad",Hospital,Ahmedabad,"Airport Road, Ambavadi / kubernagar, Gujarat, 382475",,23.0855562,72.6305442,OpenStreetMap,382475.0,street
+"Gurukrupa Hospital, Ahmedabad",Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0604405,72.5352037,OpenStreetMap,380061.0,street
+Laxmi Heart and Medical Hospital,Hospital,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380013",,23.0283086,72.4775523,OpenStreetMap,380013.0,street
+"Navkar Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Bileshwar Mahadev Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0162743,72.5298151,OpenStreetMap,380015.0,street
+Dr Chirag M Desai Eye Care,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0088754,72.5623262,OpenStreetMap,380007.0,street
+Bopal Multispeciality Hospital,Hospital,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 380058",,23.0315422,72.4717694,OpenStreetMap,380058.0,street
+Mother's Maternity and Nursing Home,Hospital,Ahmedabad,"Pujya Ravishankar Maharaj Flyover, Usmanpura, Gujarat, 380013",,23.0526874,72.549178,OpenStreetMap,380013.0,street
+Nanavati Maternity Hospital,Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",,23.0034068,72.518924,OpenStreetMap,380051.0,street
+Vaishali Hospital,Hospital,Ahmedabad,"Vakil Saheb Flyover, Gujarat, 380058",,23.0283536,72.4773833,OpenStreetMap,380058.0,street
+"Gujarat Hospital, Ahmedabad",Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380006",,23.0045749,72.6386267,OpenStreetMap,380006.0,street
+Aadya Eye and Ent Hospital,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 380001",,23.0619138,72.6398085,OpenStreetMap,380001.0,street
+Karnavati Hospital Pvt. Ltd.,Hospital,Ahmedabad,"Surendra Mangaldas Road, Paldi, Gujarat, 380006",,23.0217016,72.5725166,OpenStreetMap,380006.0,street
+Navjeevan Doctor House,Hospital,Ahmedabad,"SH144, Sanand, Gujarat, 382210",,22.9867393,72.3808788,OpenStreetMap,382210.0,street
+"Dev Hospital, Vasna",Hospital,Ahmedabad,"rajmahel road, Vasna, Gujarat, 380007",,23.0060128,72.5447845,OpenStreetMap,380007.0,street
+Dr Praful Munishi's Nursing Home,Clinic,Ahmedabad,"Dr. Hariprasad Desai Marg, Ambawadi, Gujarat, 380006",,23.0197773,72.5653967,OpenStreetMap,380006.0,street
+Rukshmani Surgical Hospital,Hospital,Ahmedabad,"NH8, Thakkarabapa Nagar, Gujarat, 382345",,23.0518255,72.6416056,OpenStreetMap,382345.0,street
+Sparsh Orthopedic Oncology Clinic,Clinic,Ahmedabad,"Ellis Flyover, Paldi, Gujarat, 380006",,23.0231938,72.5699329,OpenStreetMap,380006.0,street
+Ratan Deep Surgical And Endoscopy Clinic,Clinic,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.9990078,72.6082449,OpenStreetMap,380008.0,street
+Sanket Children's Speciality Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Thakkarabapa Nagar, Gujarat, 382350",,23.0379081,72.6442704,OpenStreetMap,382350.0,street
+Hariom Multispeciality Hospital,Hospital,Ahmedabad,"RTO Road, Vastral, Gujarat, 382418",,22.999875,72.6575299,OpenStreetMap,382418.0,street
+Neelkamal Hospital Pvt Ltd (Pooja Hospital),Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0838969,72.5912485,OpenStreetMap,380005.0,street
+"Trupti Hospital, Saijpur",Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382220",,23.0638912,72.6422949,OpenStreetMap,382220.0,street
+Deep Urosurgical Hospital,Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380001",,23.0454856,72.5623074,OpenStreetMap,380001.0,street
+Sannidhya Eye Hospital,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0060905,72.5557816,OpenStreetMap,380007.0,street
+Karnavati Super Speciality Hospital,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382345",,23.0604664,72.6398112,OpenStreetMap,382345.0,street
+Shyamal Orthopaedic Hospital,Hospital,Ahmedabad,"100 Ft. Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0133562,72.5263832,OpenStreetMap,380015.0,street
+Sanskar Heart Care And Medical Hospital,Hospital,Ahmedabad,"SH71, Gujarat, 382424",,23.0981234,72.5891134,OpenStreetMap,382424.0,street
+Vadaj Orthopaedic Hospital,Hospital,Ahmedabad,"BRTS Station, Usmanpura, Gujarat, 380013",,23.0576184,72.5692952,OpenStreetMap,380013.0,street
+Sahjanand Eye Care Hospital,Hospital,Ahmedabad,"Drive-in Road, Gulbai tekra, Gujarat, 380009",,23.0403424,72.5532469,OpenStreetMap,380009.0,street
+Maniar Hospital,Hospital,Ahmedabad,"Umashankar Joshi Marg, Gulbai tekra, Gujarat, 380006",,23.0328949,72.5553042,OpenStreetMap,380006.0,street
+Manish Eye Hospital - Ahmedabad,Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0021131,72.5505567,OpenStreetMap,380007.0,street
+Parvati Jadav Hospital,Hospital,Ahmedabad,"Naroda Gam Bus Station, Naroda, Gujarat, 382330",,23.0763407,72.6544695,OpenStreetMap,382330.0,street
+"Matru Hospital, Ahmedabad",Hospital,Ahmedabad,"Rakhial Road, Pratapnagar, Gujarat, 380024",,23.0302148,72.622926,OpenStreetMap,380024.0,street
+"Matoshree Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0006799,72.546536,OpenStreetMap,380007.0,street
+Aashwi E.N.T.Hospital,Hospital,Ahmedabad,"Sargam Marg, Vastrapur, Gujarat, 380015",,23.0371183,72.5290078,OpenStreetMap,380015.0,street
+Pushpa Children Hospital and Neonatal Care,Hospital,Ahmedabad,"SH71, Gujarat, 380005",,23.1067781,72.5980747,OpenStreetMap,380005.0,street
+Aarogyam Speciality Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0469542,72.5556147,OpenStreetMap,380014.0,street
+Trisha Trauma Centre and Icu,Hospital,Ahmedabad,"Gota Road Underpass, Akhbar nagar, Gujarat, 382481",,23.0713999,72.5591303,OpenStreetMap,382481.0,street
+Shreejee Hospital,Hospital,Ahmedabad,"Punit Nagar Road, Isanpur, Gujarat, 380050",,22.979135,72.6195304,OpenStreetMap,380050.0,street
+Sanjivani Maternity,Hospital,Ahmedabad,"100 Ft. Road, Prahladnagar, Sarkhej, Gujarat, 380015",,23.0130681,72.5245995,OpenStreetMap,380015.0,street
+Dr. Devendra Kanaiyalal Hospital and Nursing Home,Hospital,Ahmedabad,"Ashram Road, Ambawadi, Gujarat, 380001",,23.0162681,72.5681533,OpenStreetMap,380001.0,street
+Harsiddh Hospital,Hospital,Ahmedabad,"Ranip Gam Road, Ranip, Gujarat, 382480",,23.079662,72.5740326,OpenStreetMap,382480.0,street
+Gheewala Hospital,Hospital,Ahmedabad,"Netaji Subhash Chandra Road, Paldi, Gujarat, 380007",,23.0152127,72.5638162,OpenStreetMap,380007.0,street
+Rushabh Uro Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.046184,72.533758,OpenStreetMap,380052.0,street
+"Geeta Nursing Home, Ahmedabad",Clinic,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380028",,23.0026356,72.5971751,OpenStreetMap,380028.0,street
+Vallabh Surgical Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0594844,72.5360284,OpenStreetMap,380061.0,street
+Dr. Shurti Ent Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9980056,72.6097913,OpenStreetMap,380008.0,street
+Babycare Children Hospital and Neonatal Centre,Hospital,Ahmedabad,"CTM Flyover 1, Rabari Colony, Gujarat, 380008",,22.9933987,72.6291548,OpenStreetMap,380008.0,street
+Venkaria Ortho Hospital,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 382350",,23.0388744,72.6309961,OpenStreetMap,382350.0,street
+Sanand Hospital and Trauma Centre,Hospital,Ahmedabad,"SH144, Sanand, Gujarat, 382110",,22.9881727,72.3812717,OpenStreetMap,382110.0,street
+Diva Eye Institute Hospital,Hospital,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 380006",,23.0182599,72.5568886,OpenStreetMap,380006.0,street
+Stavan Eye Clinic,Clinic,Ahmedabad,"Chimanlal Girdharlal Road, Paldi, Gujarat, 380007",,23.011259,72.5645041,OpenStreetMap,380007.0,street
+Poojan Maternity and Infertility Clinic,Clinic,Ahmedabad,"Rakhiyal Road, Naroda, Gujarat, 382330",,23.0730915,72.6528548,OpenStreetMap,382330.0,street
+Khush Eye Hospital,Hospital,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 380006",,23.0186294,72.5584531,OpenStreetMap,380006.0,street
+Uma Maternity and Nursing Home,Clinic,Ahmedabad,"Nikol-Naroda Road, Nava Naroda, Gujarat, 382330",,23.0662385,72.6627067,OpenStreetMap,382330.0,street
+Sangini Hospital,Hospital,Ahmedabad,"lal bahadur shashtri road, Jodhpur, Gujarat, 380001",,23.0250378,72.5233135,OpenStreetMap,380001.0,street
+Aneri Children Hospital,Hospital,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380061",,23.0694294,72.5431028,OpenStreetMap,380061.0,street
+Divya Jyot Eye Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0838463,72.5911814,OpenStreetMap,380005.0,street
+Eye Care Hospital Pvt. Ltd.,Hospital,Ahmedabad,"Dr. Vikram Sarabhai Road, Ambawadi, Gujarat, 380015",,23.0241454,72.5498479,OpenStreetMap,380015.0,street
+Raj Ent Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0519939,72.5640978,OpenStreetMap,380013.0,street
+Valu Hospital,Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380014",,23.0461976,72.5616597,OpenStreetMap,380014.0,street
+Satyamev Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 380016",,23.1204422,72.5815442,OpenStreetMap,380016.0,street
+Polio Foundation,Hospital,Ahmedabad,"Gupta Nagar road, Jivraj park, Sarkhej, Gujarat, 380051",,23.0047117,72.5374903,OpenStreetMap,380051.0,street
+Archit Orthopaedic Hospital,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0070978,72.5567982,OpenStreetMap,380007.0,street
+"Saraswati Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382443",7922836817,23.063798,72.6422057,OpenStreetMap,382443.0,street
+"Bavishi Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Manek Baug Road, Ambawadi, Gujarat, 380015",,23.0218028,72.5413272,OpenStreetMap,380015.0,street
+Pankit Nursing Home,Clinic,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380014",,23.0397778,72.5661081,OpenStreetMap,380014.0,street
+"Shreedhar Hospital, Ahmedabad",Hospital,Ahmedabad,"Sardar Patel Ring Road, Vastral, Gujarat, 382415",,23.000075,72.6591285,OpenStreetMap,382415.0,street
+Dr. Rajendra C. Patel Orthopaedic Nursing Home,Clinic,Ahmedabad,"Law Garden Road, Usmanpura, Gujarat, 380009",,23.0315465,72.5653041,OpenStreetMap,380009.0,street
+Sarjan Maternity and Nursing Home,Clinic,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0023131,72.5483291,OpenStreetMap,380007.0,street
+Aash Arthoscopy Centre,Hospital,Ahmedabad,"Paldi Underpass, Paldi, Gujarat, 380007",,23.0176604,72.560572,OpenStreetMap,380007.0,street
+"Ashirwad Surgical Hospital, C.T.M",Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9997985,72.6359045,OpenStreetMap,380026.0,street
+Sushri Jasumatiben Shantilal Surti Charitable General Hospital,Hospital,Ahmedabad,"Shivranjani Flyover, Jodhpur, Gujarat, 380015",,23.0256722,72.5319609,OpenStreetMap,380015.0,street
+Dr. Shailesh Shah Surgical Hospital and End. Clinic,Hospital,Ahmedabad,"Kankaria Road, Gita Mandir, Gujarat, 380022",,23.0095864,72.5988331,OpenStreetMap,380022.0,street
+"Vrundavan Hospital, Ahmedabad",Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380014",,23.0471713,72.5582439,OpenStreetMap,380014.0,street
+Arihant Heart And Medical Hospital,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0538573,72.5956231,OpenStreetMap,380004.0,street
+"Shaurya Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0109689,72.5626293,OpenStreetMap,380007.0,street
+Sparsh Netralaya,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0539511,72.595426,OpenStreetMap,380004.0,street
+"Parth Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380022",,23.0048092,72.5901327,OpenStreetMap,380022.0,street
+"Swastik Hospital, Ahmedabad",Hospital,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 382418",,23.0395285,72.67597,OpenStreetMap,382418.0,street
+Navkar Hospital,Hospital,Ahmedabad,"Dharanidhar Flyover, Vasna, Gujarat, 380015",,23.0129094,72.5457716,OpenStreetMap,380015.0,street
+"Pushpam Hospital, Ahmedabad",Hospital,Ahmedabad,"Tragad gam road, Godrej Garden City, Gujarat, 380019",,23.1029936,72.5697277,OpenStreetMap,380019.0,street
+"Swari Ent Hospital, Ahmedabad",Hospital,Ahmedabad,"Sabarmati Jail Road, Sabarmati, Gujarat, 380027",,23.0668688,72.583823,OpenStreetMap,380027.0,street
+Krishna Shalby Hospital,Hospital,Ahmedabad,"Telav-Guma Road, Ghuma, Gujarat, 380058",,23.0239294,72.4414712,OpenStreetMap,380058.0,street
+"Sagar Hospital, Ahmedabad",Hospital,Ahmedabad,"Dr. Jivraj Mehta Road, Vasna, Gujarat, 380052",,23.0063905,72.5335769,OpenStreetMap,380052.0,street
+Chhabra Eye Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",7926754848,23.0259215,72.5268432,OpenStreetMap,380015.0,street
+"Prabhu Nursing Home, Ahmedabad",Clinic,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9993553,72.6357423,OpenStreetMap,380026.0,street
+"Vatsalya Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0482795,72.5337875,OpenStreetMap,380052.0,street
+Om Surgical Nursing Home,Clinic,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 364002",,23.0179184,72.5582573,OpenStreetMap,364002.0,street
+Aastha Eye Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",,23.0255723,72.5275755,OpenStreetMap,380015.0,street
+Gmers Medical College Hospital,Hospital,Ahmedabad,"High Court Road, Bhagvat, Gujarat, 380054",,23.0827619,72.524609,OpenStreetMap,380054.0,street
+"CHC, Mandal",Clinic,Ahmedabad,"SH18, Mandal, Gujarat, 382130",,23.2890617,71.9157475,OpenStreetMap,382130.0,street
+"Super Surgical Hospital, Ahmedabad",Hospital,Ahmedabad,"Chimanlal Girdharlal Road, Gulbai tekra, Gujarat, 380009",,23.0354102,72.5594562,OpenStreetMap,380009.0,street
+Krishna Hospital and ICCU,Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0672085,72.5631899,OpenStreetMap,380013.0,street
+Satellite Orthopaedic Hospital And Research Centre Pvt Ltd,Hospital,Ahmedabad,"100 Ft. Road / Anand nagar road, Jodhpur, Sarkhej, Gujarat, 380015",07926751234; 26754929;,23.0137315,72.5253627,OpenStreetMap,380015.0,street
+Chirayu Orthopaedic and Spine Hospital,Hospital,Ahmedabad,"Sabarmati Riverfront Road, Ranna Park, Gujarat, 380007",,23.0070435,72.5658171,OpenStreetMap,380007.0,street
+Adwait Ent Hospital,Hospital,Ahmedabad,"Kasturba Gandhi Road, Madhupura, Gujarat, 380004",,23.0400753,72.5777945,OpenStreetMap,380004.0,street
+"Long Life Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.013039,72.5637853,OpenStreetMap,380007.0,street
+"Mamta Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Satellite Road, Panjrapole, Gujarat, 380015",,23.0239912,72.5313695,OpenStreetMap,380015.0,street
+Jay Prasuti Gruh and Nursing Home,Clinic,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380058",,23.0282894,72.4778487,OpenStreetMap,380058.0,street
+Shantilal Parikh Hospital and Check Up Clinic,Hospital,Ahmedabad,"Sabarmati Riverfront road, Usmanpura, Gujarat, 380009",,23.0373342,72.57069,OpenStreetMap,380009.0,street
+Dr.Anil V.Patel Eye Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0671493,72.566613,OpenStreetMap,380013.0,street
+Sharda Clinic and Hospital,Hospital,Ahmedabad,"Hanuman sing road, Asarwa, Gujarat, 380016",,23.0442336,72.6049981,OpenStreetMap,380016.0,street
+Dr.Joshi Maternity And Gynec Hospital,Hospital,Ahmedabad,"Paldi Underpass, Ambawadi, Gujarat, 380006",,23.0188639,72.5606538,OpenStreetMap,380006.0,street
+Dr.Nagoris Institute Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380006",,23.0263782,72.5260802,OpenStreetMap,380006.0,street
+Dr.Soneji Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380028",,23.0017415,72.5917406,OpenStreetMap,380028.0,street
+Eye Research Centre And Retina Foundation,Hospital,Ahmedabad,"Airport Road, Shahibaug, Gujarat, 380004",,23.0557144,72.5907777,OpenStreetMap,380004.0,street
+Dr. Manoj Tank E.N.T. Hospital,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0232494,72.5719513,OpenStreetMap,380007.0,street
+"Prasad Hospital, Ahmedabad",Hospital,Ahmedabad,"Canal road, Thakkarabapa Nagar, Gujarat, 380025",,23.0496493,72.6573488,OpenStreetMap,380025.0,street
+Detroj CHC,Clinic,Ahmedabad,"SH133, Gujarat, 382120",02715-255633,23.336892,72.1870409,OpenStreetMap,382120.0,street
+Rangam Multispeciality Hospital,Hospital,Ahmedabad,"RTO Road, Rabari Colony, Gujarat, 382415",,23.0099185,72.6450951,OpenStreetMap,382415.0,street
+Astha Orthopedic and Spine Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0662892,72.5629491,OpenStreetMap,380013.0,street
+Aashu Dental Multispeciality Polyclinic,Dentist,Ahmedabad,"Commerce College Road, Usmanpura, Gujarat, 380001",,23.0345759,72.5635694,OpenStreetMap,380001.0,street
+Amrut Arogyadham Medical Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 380001",,23.1105464,72.5849734,OpenStreetMap,380001.0,street
+Rushabh Medi-Surge Hospital Pvt Ltd,Hospital,Ahmedabad,"100 Ft. Road, Prahladnagar, Sarkhej, Gujarat, 380051",,23.0125983,72.5178203,OpenStreetMap,380051.0,street
+Jay Orthopaedic Hospital,Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0520957,72.6002379,OpenStreetMap,380016.0,street
+Pramukh Neurosurgical Hosptial,Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380009",,23.0411786,72.5621706,OpenStreetMap,380009.0,street
+"Trupti Heart and Medical Hospital, Ahmedabad",Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380022",,23.0042895,72.5905082,OpenStreetMap,380022.0,street
+Aash Surgical Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380013",,23.0472453,72.5624844,OpenStreetMap,380013.0,street
+Kanchi Orthopaedic Hospital,Hospital,Ahmedabad,"Dharanidhar Flyover, Vasna, Gujarat, 380007",,23.010948,72.5465682,OpenStreetMap,380007.0,street
+Shree Mahavir Mutlispeciality Hospital and Icu,Hospital,Ahmedabad,"Sola Road, Gujarat, 380024",,23.0603035,72.5355001,OpenStreetMap,380024.0,street
+Jainee Surgical Hospital,Hospital,Ahmedabad,"Ranip Gam Road, Ranip, Gujarat, 382480",,23.0803277,72.5666606,OpenStreetMap,382480.0,street
+Shri Rang Hospitaland Research Centre,Hospital,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380009",,23.0767892,72.5390634,OpenStreetMap,380009.0,street
+Brain and Spine Hospital,Hospital,Ahmedabad,"Income Tax Underpass, Usmanpura, Gujarat, 380014",,23.0402678,72.5659271,OpenStreetMap,380014.0,street
+Bodyline Hospitals,Hospital,Ahmedabad,"Dhumketu Marg, Paldi, Gujarat, 380007",,23.0099407,72.5545666,OpenStreetMap,380007.0,street
+"Siddhi Hospital, Ahmedabad",Hospital,Ahmedabad,"Kubernagar road, Naroda, Gujarat, 382340",,23.0672116,72.6429212,OpenStreetMap,382340.0,street
+Om Children Hospital,Hospital,Ahmedabad,"Neeti Marg, Gujarat, 380061",,23.0620742,72.5306962,OpenStreetMap,380061.0,street
+Samkit Hospital Icu and Iccu,Hospital,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380051",26812217,23.0057153,72.532901,OpenStreetMap,380051.0,street
+Vrundavan Children Hospital,Hospital,Ahmedabad,"Ashram Road, Ambawadi, Gujarat, 380006",,23.0169692,72.5667264,OpenStreetMap,380006.0,street
+"Netra Raksha Hospital, Thakkarbapa Nagar",Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Shastri Nagar, Gujarat, 380024",,23.0392262,72.6383065,OpenStreetMap,380024.0,street
+Shivam Heart and Medical Hospital,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382345",,23.0567152,72.634133,OpenStreetMap,382345.0,street
+Bhakti Maternity and Sonography Clinic,Clinic,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,23.0014002,72.6355927,OpenStreetMap,380026.0,street
+"Shashwat Hospital and Research Center, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0583008,72.5332966,OpenStreetMap,380052.0,street
+"Aditya Hospital, Ahmedabad",Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0043253,72.5520748,OpenStreetMap,380007.0,street
+Krupanidhi Hospital,Hospital,Ahmedabad,"Netaji Subhash Chandra Road, Paldi, Gujarat, 380006",,23.0152967,72.5638765,OpenStreetMap,380006.0,street
+"Aditya Eye Hospital, Ahmedabad",Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0499602,72.5348282,OpenStreetMap,380052.0,street
+"Joitiba General Hospital, Ahmedabad",Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 380050",,22.978619,72.611884,OpenStreetMap,380050.0,street
+Anoop Children Hospital,Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9926876,72.6321253,OpenStreetMap,380026.0,street
+Aayush Surgical Hospital,Hospital,Ahmedabad,"Gurukul Road, Vishram Marg, Memnagar, Gujarat, 380052",,23.0462322,72.5337466,OpenStreetMap,380052.0,street
+"J J Hospital, Ahmedabad",Hospital,Ahmedabad,"Ravishankar Maharaj Road, Karmachari Nagar, Gujarat, 380061",,23.0731297,72.5368439,OpenStreetMap,380061.0,street
+Dr. Rajiv Thakores Hospital,Hospital,Ahmedabad,"Bhudarpura Road, Ambawadi, Gujarat, 380006",,23.0176617,72.5539094,OpenStreetMap,380006.0,street
+Parekh Hospital,Hospital,Ahmedabad,"SH74, Bavla, Gujarat, 382220",,22.8306417,72.3614478,OpenStreetMap,382220.0,street
+Chikhalkar Hospital and Iccu,Hospital,Ahmedabad,"132 Ft. Ring Road, Naranpura, Gujarat, 380015",,23.0561654,72.5493899,OpenStreetMap,380015.0,street
+The Holistic Medical Centre Ayulink Ayurveda Hospital,Hospital,Ahmedabad,"Commerce College Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0379772,72.5595984,OpenStreetMap,380009.0,street
+Aniket Ent Hospital,Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9926333,72.632124,OpenStreetMap,380026.0,street
+Amruta Hospital and Heart Centre,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.082678,72.5896941,OpenStreetMap,380005.0,street
+Hari Krishna Uro Surgical Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Thakkarabapa Nagar, Gujarat, 382350",,23.0381006,72.6439887,OpenStreetMap,382350.0,street
+Aditya Multi-Speciality Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0632822,72.5315224,OpenStreetMap,380061.0,street
+Vatsalya Neonatal and Children Hospital,Hospital,Ahmedabad,"Soni Ni Chawl Flyover, Shastri Nagar, Gujarat, 382415",,23.0208659,72.6388442,OpenStreetMap,382415.0,street
+Motherhood Womens and Child Care Hospital,Hospital,Ahmedabad,"science city road, Sola, Gujarat, 380060",,23.0745277,72.5125068,OpenStreetMap,380060.0,street
+Kanan Maternity and Nursing Home,Clinic,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380015",,22.9977455,72.6091146,OpenStreetMap,380015.0,street
+Arpan Orthopedic and Trauma Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380028",,23.0024575,72.595257,OpenStreetMap,380028.0,street
+Jarmarwala Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380015",,23.0199254,72.5458769,OpenStreetMap,380015.0,street
+Pearl Eye Hospital,Hospital,Ahmedabad,"Side Road, Bhavna colony, Gujarat, 380043",,23.0098432,72.5806028,OpenStreetMap,380043.0,street
+Shushilaben Neonatal And Child Care Centre,Hospital,Ahmedabad,"Sarangpur railway station road, Sarangpur, Gujarat, 389151",,23.0310362,72.6149404,OpenStreetMap,389151.0,street
+Shree Aman Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0844866,72.5914161,OpenStreetMap,380005.0,street
+Rainbow Super Speciality Children's Hospital,Hospital,Ahmedabad,"Drive-in Road, Bodakdev, Gujarat, 380054",,23.0460902,72.5286249,OpenStreetMap,380054.0,street
+"Parth Hospital, Ahmedabad",Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0837834,72.5889122,OpenStreetMap,380005.0,street
+"Gayatri Heart And Medical Hospital, Bhimjipura",Hospital,Ahmedabad,"Mewavala Nagar Tenaments, Usmanpura, Gujarat, 380013",,23.0602795,72.5647576,OpenStreetMap,380013.0,street
+Sanghavi Hospital Pvt. Ltd.,Hospital,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380007",,23.0066966,72.5563677,OpenStreetMap,380007.0,street
+Pallav J M Desai Memorial Hospital (Better Health Pvt.Ltd.),Hospital,Ahmedabad,"Mansarovar Road, Dalal Colony, Gujarat, 380008",,22.9947616,72.6141009,OpenStreetMap,380008.0,street
+Shiv Sharddha Nursing Home and Super Speciality Clinics,Clinic,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0545162,72.5971869,OpenStreetMap,380004.0,street
+"Jalaram Hospital, Ahmedabad",Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",,23.0277853,72.5218208,OpenStreetMap,380015.0,street
+Kruti Orthopedic Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380014",,23.0464247,72.5709508,OpenStreetMap,380014.0,street
+Banker`S Retina Clinic and Laser Centre,Clinic,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0416302,72.5542541,OpenStreetMap,380009.0,street
+Jariwala Women's Hospital,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 382340",,23.0547211,72.5964291,OpenStreetMap,382340.0,street
+Rukshmani Medical Hospital,Hospital,Ahmedabad,"Rabari colony road, Rabari Colony, Gujarat, 380026",,23.0031785,72.6334758,OpenStreetMap,380026.0,street
+RMS Hospital Trauma General Hospital,Hospital,Ahmedabad,"SH36, Dhandhuka, Gujarat, 382460",,22.3641035,71.9781169,OpenStreetMap,382460.0,street
+CGHS Dispensary No.3,Clinic,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380014",7926430021,23.0355015,72.5694904,OpenStreetMap,380014.0,street
+HCG Cancer Centre,Hospital,Ahmedabad,"Sola Road, Gujarat, 380060",,23.0705004,72.5227287,OpenStreetMap,380060.0,street
+Zeal Maternity And Nursing Home,Hospital,Ahmedabad,"Duffnala Road, Shahibaug, Gujarat, 380004",,23.0544878,72.6029496,OpenStreetMap,380004.0,street
+Sanidhaya Maternity and Nursing Home,Clinic,Ahmedabad,"100 Ft. Road, Jodhpur, Sarkhej, Gujarat, 380015",7926744033,23.0143203,72.5301518,OpenStreetMap,380015.0,street
+Vraj Hospital and Heart Care Center,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.980618,72.6021999,OpenStreetMap,382443.0,street
+Sahjanand Orthopaedic Hospital,Hospital,Ahmedabad,"100 Ft. Road, Prahladnagar, Sarkhej, Gujarat, 380015",,23.0126292,72.51789,OpenStreetMap,380015.0,street
+Jaju Plastic Surgery Center,Hospital,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0421276,72.5592698,OpenStreetMap,380009.0,street
+Raghuvir Eye Hospital,Hospital,Ahmedabad,"BRTS Route, Uttamnagar, Gujarat, 380008",7925470900,22.9947925,72.6074664,OpenStreetMap,380008.0,street
+Shachi Women's Hospital,Hospital,Ahmedabad,"Subhash Bridge Circle, Ranip, Ahmedabad, Gujarat, 380027",,23.066349,72.5838341,OpenStreetMap,380027.0,street
+"Palak Hospital, Ahmedabad",Hospital,Ahmedabad,"Hatkeshwar Khokhra Flyover, Khokhra, Gujarat, 380026",,22.9989479,72.6251891,OpenStreetMap,380026.0,street
+Anand Children Hospital Neonatal Intensive Care,Hospital,Ahmedabad,"Hanuman sing road, Asarwa, Gujarat, 380016",,23.0487768,72.6059926,OpenStreetMap,380016.0,street
+Ami Eye Clinic,Clinic,Ahmedabad,"Ashram Road, Ranip, Gujarat, 380027",,23.0633976,72.5809816,OpenStreetMap,380027.0,street
+Patel E.N.T Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380013",,23.0477933,72.5712056,OpenStreetMap,380013.0,street
+Rosemaarry Womens Hospital,Hospital,Ahmedabad,"Judges Bunglow Road, Vastrapur, Gujarat, 380015",7926753892; 26763777,23.0318187,72.5260091,OpenStreetMap,380015.0,street
+Sehat Hospital Clinic,Clinic,Ahmedabad,"Jawaharlal Nehru Road, Gujarat, 380055",,22.9932036,72.5258213,OpenStreetMap,380055.0,street
+Sanjivan Heart and Medical Hospital,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0837698,72.5903244,OpenStreetMap,380005.0,street
+Sainath Orhtopaedic Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0592152,72.5360379,OpenStreetMap,380061.0,street
+Sardar Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Thakkarabapa Nagar, Gujarat, 380008",,23.0380179,72.6445547,OpenStreetMap,380008.0,street
+Shree Harikrupa Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 384001",,23.0200612,72.5615551,OpenStreetMap,384001.0,street
+Amardeep Multispeciality Children Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380006",,23.0202065,72.5642668,OpenStreetMap,380006.0,street
+HCG Multi Specialty Hospital,Hospital,Ahmedabad,"Krishnakunj Society, Gulbai tekra, Gujarat, 380006",,23.0288615,72.5642949,OpenStreetMap,380006.0,street
+Palak Eye Hospital,Hospital,Ahmedabad,"BRTS Route, Uttamnagar, Gujarat, 380008",,22.9949308,72.6068804,OpenStreetMap,380008.0,street
+Rukshmani Government Hospital,Hospital,Ahmedabad,"Bhaipura Road, Mehmdabad - Khokhra, Gujarat, 380008",,22.9994812,72.6197255,OpenStreetMap,380008.0,street
+Rugved Multispeciality Hospital,Hospital,Ahmedabad,"Sardar Chowk, Thakkarabapa Nagar, Gujarat, 380001",,23.0504316,72.6468533,OpenStreetMap,380001.0,street
+Ashirwad Children and Eye Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9978986,72.6079211,OpenStreetMap,380008.0,street
+Ayushman Medical Hospital and Dignosis Center,Hospital,Ahmedabad,"NH8, Shastri Nagar, Gujarat, 380024",,23.0237122,72.6391487,OpenStreetMap,380024.0,street
+R. Tolat Eye Clinic,Clinic,Ahmedabad,"Chimanlal Girdharlal Road, Paldi, Gujarat, 380009",,23.0137364,72.560387,OpenStreetMap,380009.0,street
+"Ravi Surgical Hospital, Ahmedabad",Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",7925463679,22.9980843,72.6098563,OpenStreetMap,380008.0,street
+College of Dental Sciences and Research Hospital,Hospital,Ahmedabad,"Bopal-Ghuma road, South Bopal, Gujarat, 382115",,23.0347264,72.435679,OpenStreetMap,382115.0,street
+Shrreeji Surgical Hospital,Hospital,Ahmedabad,"Hatkeshwar Khokhra Flyover, Khokhra, Gujarat, 380008",,22.9981609,72.625165,OpenStreetMap,380008.0,street
+Aalap Clinic and Surgical Nursing Home,Clinic,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380014",,23.045074,72.5710642,OpenStreetMap,380014.0,street
+Shreyas Speciality Hospital,Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",7926826677,23.002323,72.5175279,OpenStreetMap,380051.0,street
+"Rugveda Practur and Orthopaedic Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0021551,72.5467211,OpenStreetMap,380007.0,street
+Kalptaru Hospital,Hospital,Ahmedabad,"Shahibaug Flyover, Girdharnagar, Gujarat, 380004",,23.049363,72.594506,OpenStreetMap,380004.0,street
+Sukhmani Hospital / Saviour Annexe Hospital,Hospital,Ahmedabad,"Ashram Road, Usmanpura, Gujarat, 380009",,23.0364864,72.5696392,OpenStreetMap,380009.0,street
+"Setu Surgical Hospital, Ahmedabad",Hospital,Ahmedabad,"NH8, Naroda, Gujarat, 380025",,23.0540923,72.6429145,OpenStreetMap,380025.0,street
+Auro Ent Hospital,Hospital,Ahmedabad,"BRTS Route, Usmanpura, Gujarat, 380013",,23.0578122,72.5701462,OpenStreetMap,380013.0,street
+"Swastik Surgical Hospital And Dental Clinic, Ahmedabad",Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",,23.0034741,72.5189053,OpenStreetMap,380051.0,street
+"Sanjivani Eye Hospital and Phaco Centre, Ahmedabad",Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380009",,23.0459888,72.5615689,OpenStreetMap,380009.0,street
+"Sanjeevani Hospital, Ahmedabad",Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0595717,72.5356453,OpenStreetMap,380061.0,street
+Hcg Medi-Surge Hospitals Private Limited,Hospital,Ahmedabad,"Krishnakunj Society, Gulbai tekra, Gujarat, 380006",,23.0288813,72.5643083,OpenStreetMap,380006.0,street
+The Vitreoretina Clinic and Eye Hospital,Hospital,Ahmedabad,"Satya Marg, Bodakdev, Gujarat, 380054",,23.0389016,72.5161432,OpenStreetMap,380054.0,street
+Soni Nursing Home,Clinic,Ahmedabad,"Machhli circle road, Nava Naroda, Gujarat, 382330",,23.0726584,72.6604924,OpenStreetMap,382330.0,street
+Mahin Lifecare Services Pvt.Ltd,Hospital,Ahmedabad,"Jawaharlal Nehru Road, Gujarat, 380055",,22.9931604,72.5256523,OpenStreetMap,380055.0,street
+Jay Umiya Hospital,Hospital,Ahmedabad,"Gota Road Underpass, Nirnay Nagar, Gujarat, 382481",7927623434,23.0728893,72.5590798,OpenStreetMap,382481.0,street
+Aarna Medical Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Shastri Nagar, Gujarat, 382350",,23.0395124,72.6388644,OpenStreetMap,382350.0,street
+Akshar Krupa Hospital,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0544298,72.5958726,OpenStreetMap,380004.0,street
+Siddhi Heart and Medical Hospital,Hospital,Ahmedabad,"Gota Road Underpass, Nirnay Nagar, Gujarat, 382481",,23.0729002,72.5591692,OpenStreetMap,382481.0,street
+"Ashish Orthopaedic Hospital, Ahmedabad",Hospital,Ahmedabad,"Sargam Marg, Vastrapur, Gujarat, 380015",,23.0369328,72.5273097,OpenStreetMap,380015.0,street
+Ashray Clinic,Clinic,Ahmedabad,"Anjali Flyover, Vasna, Gujarat, 380001",,23.0072793,72.5573789,OpenStreetMap,380001.0,street
+Sanjivani Heart and Medical Hospital (Ahmedabad),Hospital,Ahmedabad,"BRTS Route, Usmanpura, Gujarat, 380013",,23.0578196,72.5701541,OpenStreetMap,380013.0,street
+Raksha Hospital Pvt Ltd,Hospital,Ahmedabad,"Judges Bunglow Road, Bodakdev, Gujarat, 380015",,23.036039,72.5174716,OpenStreetMap,380015.0,street
+B.J. Medical College Hospital,Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0526578,72.6028262,OpenStreetMap,380016.0,street
+Government Spine Institute Hospital,Hospital,Ahmedabad,"Sant Rohidas Road, Kalapi nagar, Gujarat, 380016",,23.0500108,72.6080297,OpenStreetMap,380016.0,street
+"Parth Eye Hospital, Isanpur",Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",7925359394; 25394700,22.9798932,72.5997604,OpenStreetMap,382443.0,street
+Austmangal Surgical Hospital,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0545187,72.595823,OpenStreetMap,380004.0,street
+Rudraksh Hospital,Hospital,Ahmedabad,"NH8, Naroda, Gujarat, 380015",,23.0626344,72.643695,OpenStreetMap,380015.0,street
+Babul E.N.T. Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Gulbai tekra, Gujarat, 380015",,23.0246015,72.5449569,OpenStreetMap,380015.0,street
+Dr Dipak C Shah E N T Hospital,Hospital,Ahmedabad,"BRTS Route, Dalal Colony, Gujarat, 380007",,22.9956523,72.6121093,OpenStreetMap,380007.0,street
+"Adarsh Hospital, Ahmedabad",Hospital,Ahmedabad,"Usmanpura Underpass, Usmanpura, Gujarat, 380001",,23.0476847,72.5663294,OpenStreetMap,380001.0,street
+Swapn Healthcare Hospital Pvt. Ltd,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",25391810,22.9834237,72.5971761,OpenStreetMap,382443.0,street
+"Navjivan Maternity and Orthopaedic Hospital, Ahmedabad",Hospital,Ahmedabad,"NH8, Naroda, Gujarat, 380001",,23.0543583,72.6428729,OpenStreetMap,380001.0,street
+Nadkarni's 21St Century Hospitals Pvt Ltd,Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,22.9979961,72.6355197,OpenStreetMap,380026.0,street
+Cardio Vascular Clinic - Ahmedabad,Clinic,Ahmedabad,"100 Ft. Road, Prahladnagar, Sarkhej, Gujarat, 380015",,23.0128822,72.5216398,OpenStreetMap,380015.0,street
+J.Chirag Surgical Hospital,Hospital,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380014",,23.0463124,72.5624067,OpenStreetMap,380014.0,street
+Urvashi Nursing Home,Clinic,Ahmedabad,"RiverFront Road, Madhupura, Gujarat, 380001",,23.0342994,72.5802205,OpenStreetMap,380001.0,street
+Shri Yogeshwar General Hospital,Hospital,Ahmedabad,"NEW JUDGES BUNGALOW ROAD, Gujarat, 380061",,23.0812863,72.5380576,OpenStreetMap,380061.0,street
+Navkalp Children Hospital,Hospital,Ahmedabad,"Ashwin Society, Ranna Park, Gujarat, 380007",,23.0059807,72.5599363,OpenStreetMap,380007.0,street
+Memon Ent Hospital,Hospital,Ahmedabad,"Relief Road, Khadia, Ahmedabad, Gujarat, 380001",,23.0272274,72.5861375,OpenStreetMap,380001.0,street
+Mahalaxmi Maternity Nursing Home and Sonography Center,Clinic,Ahmedabad,"Rana Pratap Marg, Gujarat, 380061",,23.0804227,72.5355068,OpenStreetMap,380061.0,street
+"Shaishav Children Hospital, Ahmedabad",Hospital,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380061",,23.0592497,72.5372905,OpenStreetMap,380061.0,street
+Shreeji Clinic and Nursing Home,Clinic,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0835144,72.5911599,OpenStreetMap,380005.0,street
+Shiv Jyoti Eye Hospital,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380024",,23.0388164,72.6331285,OpenStreetMap,380024.0,street
+Dr. Atul H Kansara `S (E.N.T) Hospital,Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.010174,72.5621974,OpenStreetMap,380007.0,street
+Aneri Surgical and Neuro Surgical Hospital,Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0016415,72.5481668,OpenStreetMap,380007.0,street
+Bopal Eye Care Centre,Hospital,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380058",,23.0288344,72.4779037,OpenStreetMap,380058.0,street
+Shree Hari Clinic,Clinic,Ahmedabad,"Vishal Tower Entarance Path, Prahladnagar, Sarkhej, Gujarat, 380051",7926925959,23.0159755,72.5136414,OpenStreetMap,380051.0,street
+Devam Orthopaedic Hospital,Hospital,Ahmedabad,"Sola Road, Naranpura, Gujarat, 380061",,23.0590239,72.5378671,OpenStreetMap,380061.0,street
+Reshambhai Fertility Hospital,Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.0539073,72.5964371,OpenStreetMap,380004.0,street
+"Dr, Nayan V Shah Surgical Hospital",Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.9809304,72.5987479,OpenStreetMap,382443.0,street
+"Samved Orthopaedic Hospital, Ahmedabad",Hospital,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0405319,72.5581983,OpenStreetMap,380009.0,street
+Shlok Medical and Heart Hospital,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",7925390332,22.9872011,72.603419,OpenStreetMap,380008.0,street
+Dr. Devendra Patel Nursing Home,Clinic,Ahmedabad,"Chimanlal Girdharlal Road, Usmanpura, Gujarat, 380009",,23.0377477,72.5625488,OpenStreetMap,380009.0,street
+Cheers Interventional Pain Management Hospital,Hospital,Ahmedabad,"Drive-in Road, Gulbai tekra, Gujarat, 380009",,23.0403048,72.5543117,OpenStreetMap,380009.0,street
+"Narang Eye Hospital, Munohwa By Pass Chowk",Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0482079,72.6016447,OpenStreetMap,380016.0,street
+Vishwa Medical And Heart Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380022",,23.0029007,72.595717,OpenStreetMap,380022.0,street
+"Vivek Children Hospital, Khokhara",Hospital,Ahmedabad,"Madrasi Mandir Road, Khokhra, Gujarat, 380008",7922771818,23.0017465,72.6183012,OpenStreetMap,380008.0,street
+Prabhujyot Inst. Of G.I. Endoscopy and Laproscop,Hospital,Ahmedabad,"Dr. Jivraj Mehta Road, Vasna, Gujarat, 380007",,23.0100246,72.5465441,OpenStreetMap,380007.0,street
+Shriji General Hospital,Hospital,Ahmedabad,"SH140;144, Gujarat, 382425",,22.8496648,72.5901367,OpenStreetMap,382425.0,street
+Vatsalya Gynec Hospital,Hospital,Ahmedabad,"Shyamprasad Mukharji Flyover, Jivraj park, Sarkhej, Gujarat, 380024",,23.0066954,72.5325832,OpenStreetMap,380024.0,street
+Vikas Medical and Heart Hospital,Hospital,Ahmedabad,"Rakhiyal Road, Naroda, Gujarat, 382330",,23.0730767,72.6527891,OpenStreetMap,382330.0,street
+Dhawal General Hospital,Hospital,Ahmedabad,"SH144, Barejadi, Gujarat, 382435",,22.89509,72.6752123,OpenStreetMap,382435.0,street
+Tirtham Surgical and Laparoscopic Centre,Hospital,Ahmedabad,"Gulab Tower Road, Gujarat, 380061",,23.0638572,72.5304455,OpenStreetMap,380061.0,street
+Peshant House Hospital,Hospital,Ahmedabad,"Netaji Subhash Chandra Road, Paldi, Gujarat, 380001",,23.0127576,72.5670958,OpenStreetMap,380001.0,street
+Jagdish Orthopadic Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Ambawadi, Gujarat, 380006",,23.0209844,72.5436446,OpenStreetMap,380006.0,street
+Vedanta Institute Of Medical Sciences Hospital,Hospital,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0402147,72.5598545,OpenStreetMap,380009.0,street
+"Harshil Medical Nursing Home, Isanpur",Clinic,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",7925393193,22.9813563,72.5988619,OpenStreetMap,382443.0,street
+"Jivandeep Hospital, Ahmedabad",Hospital,Ahmedabad,"kuberji road, Dholka, Gujarat, 387810",,22.7220565,72.4361055,OpenStreetMap,387810.0,street
+Lions Karnavati Shantaben Vishnubhai Patel Eye Hospital,Hospital,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380060",,23.1224896,72.5045286,OpenStreetMap,380060.0,street
+Shree Sai Children Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.1146062,72.5838912,OpenStreetMap,382424.0,street
+Devasya Superspeciality Kidney Institute and Research Centre,Hospital,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380025",7965404040,23.0269892,72.4773597,OpenStreetMap,380025.0,street
+"Ashirwad Hospital, Ahmedabad",Hospital,Ahmedabad,"Guruji Flyover, Dalal Colony, Gujarat, 380050",,22.9873418,72.611577,OpenStreetMap,380050.0,street
+Dr Pratap Desai Eye Clinic,Clinic,Ahmedabad,"Sardar Patel Stadium Road, Usmanpura, Gujarat, 380014",,23.045286,72.5617717,OpenStreetMap,380014.0,street
+"Shivam Medical Hospital, Sardar Nagar",Hospital,Ahmedabad,"Airport Road, Ambavadi / kubernagar, Gujarat, 382475",,23.0809819,72.6213037,OpenStreetMap,382475.0,street
+Yogiji Medical Hospital,Hospital,Ahmedabad,"Hatkeshwar Khokhra Flyover, Khokhra, Gujarat, 380008",,22.9985353,72.6247528,OpenStreetMap,380008.0,street
+Aagman Maternity and Gynec Hospital,Hospital,Ahmedabad,"Canal road, Thakkarabapa Nagar, Gujarat, 382350",,23.0436594,72.6502608,OpenStreetMap,382350.0,street
+Netram Care Eye Hospital,Hospital,Ahmedabad,"Neeti Marg, Gujarat, 380061",,23.062087,72.5305813,OpenStreetMap,380061.0,street
+Mahadev Eye Care,Clinic,Ahmedabad,"Naroda Patia Circle, Naroda, Gujarat, 382330",,23.065196,72.6426128,OpenStreetMap,382330.0,street
+Jaliyan Orthopaedic Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Paldi, Gujarat, 380006",,23.0226864,72.5697332,OpenStreetMap,380006.0,street
+Tejal Eye Hospital,Hospital,Ahmedabad,"Ranip Gam Road, Ranip, Gujarat, 382480",,23.0790988,72.5753262,OpenStreetMap,382480.0,street
+Ano Care Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Thakkarabapa Nagar, Gujarat, 382350",9974276176,23.0377884,72.6440035,OpenStreetMap,382350.0,street
+Dr.Saurabh Shah Orthopaedic Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",7927437225,23.0663546,72.5629216,OpenStreetMap,380013.0,street
+Ashadeep Polyclinic and Nursing Home,Clinic,Ahmedabad,"SH3, Gujarat, 380001",,22.9291372,72.6619636,OpenStreetMap,380001.0,street
+"Adinath Hospital, Ahmedabad",Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380004",,23.054805,72.5964358,OpenStreetMap,380004.0,street
+Geeta Maternity and Polyclinic Nursing Home,Clinic,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.9817137,72.5982222,OpenStreetMap,382443.0,street
+"Shreyas Orthopedic Hospital, Vasna",Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0022835,72.5482339,OpenStreetMap,380007.0,street
+Chintan Orthopaedic Hospital,Hospital,Ahmedabad,"Dr. Jivraj Mehta Road, Vasna, Gujarat, 380051",,23.0072423,72.5362967,OpenStreetMap,380051.0,street
+Akshar Eye Hospital,Hospital,Ahmedabad,"Naroda Patia Circle, Naroda, Gujarat, 382345",,23.0650523,72.6426671,OpenStreetMap,382345.0,street
+Jigisha Nursing Home,Clinic,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0657698,72.5669832,OpenStreetMap,380013.0,street
+Dr. Trivedis Arthroscopy Clinic And Hospital,Hospital,Ahmedabad,"Dr. Vikram Sarabhai Road, Ambawadi, Gujarat, 380015",,23.0249533,72.5472508,OpenStreetMap,380015.0,street
+"Spandan Hospital, Ahmedabad",Hospital,Ahmedabad,"Vastrapur railway station road, Prahladnagar, Sarkhej, Gujarat, 380051",,23.0034513,72.5189187,OpenStreetMap,380051.0,street
+Kuvar Ba General Hospital,Hospital,Ahmedabad,"RTO Road, Rabari Colony, Gujarat, 382415",,23.0114874,72.6491044,OpenStreetMap,382415.0,street
+Vinayak Children Hospital-Ahmedabad,Hospital,Ahmedabad,"Ranip Gam Road, Ranip, Gujarat, 382480",,23.0804356,72.5679736,OpenStreetMap,382480.0,street
+"Shree Maternity and Nursing Home, Ahmedabad",Clinic,Ahmedabad,"132 Ft. Ring Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0163409,72.5298487,OpenStreetMap,380015.0,street
+Rachana Hospital,Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0489292,72.6016849,OpenStreetMap,380016.0,street
+Kalrav Maternity Hospital and Sonography Centre,Hospital,Ahmedabad,"Nikol-Naroda Road, Thakkarabapa Nagar, Gujarat, 382350",,23.0405269,72.6583895,OpenStreetMap,382350.0,street
+Aashirwad Surgical Hospital and Nursing Home,Hospital,Ahmedabad,"Bulkhidas Road, Sabarmati, Gujarat, 380005",,23.0839074,72.5911881,OpenStreetMap,380005.0,street
+Dr. Sejal Desai Eye Hospital,Hospital,Ahmedabad,"Ashram Road, Vasna, Gujarat, 380007",,23.0016292,72.5479455,OpenStreetMap,380007.0,street
+Vishwa Ent Hospital,Hospital,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380015",,23.0220336,72.5253251,OpenStreetMap,380015.0,street
+Navkar Plastic Surgery Hospital,Hospital,Ahmedabad,"Netaji Subhash Chandra Road, Paldi, Gujarat, 380007",,23.014419,72.5629203,OpenStreetMap,380007.0,street
+Shukan Maternity Home,Hospital,Ahmedabad,"RTO Road, Vastral, Gujarat, 382418",,22.996806,72.6562531,OpenStreetMap,382418.0,street
+Rajni Women's Hospital and Research Centre,Hospital,Ahmedabad,"CTM Flyover 1, Rabari Colony, Gujarat, 380026",,22.9914333,72.6338285,OpenStreetMap,380026.0,street
+Gujrat Child Care Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380015",,23.0136587,72.5303878,OpenStreetMap,380015.0,street
+Krishna Maternity Nursing Home,Clinic,Ahmedabad,"Sardar Patel Ring Road, Gujarat, 380058",,23.0286529,72.4780579,OpenStreetMap,380058.0,street
+"Jain Hospital and Icu, Jivraj Park",Hospital,Ahmedabad,"132 Ft. Ring Road, Jivraj park, Sarkhej, Gujarat, 380051",,23.0058276,72.5329319,OpenStreetMap,380051.0,street
+Saraiya Plastic Surgery And Burns Hospital,Hospital,Ahmedabad,"Netaji Subhash Chandra Road, Paldi, Gujarat, 380006",,23.0152707,72.5638269,OpenStreetMap,380006.0,street
+"Sushrut Hospital, Ahmedabad",Hospital,Ahmedabad,"Ashram Road, Paldi, Gujarat, 380007",,23.0090414,72.5622276,OpenStreetMap,380007.0,street
+Rushil Cancer And Endocrine Care,Hospital,Ahmedabad,"120 Feet Ring Road, Ambawadi, Gujarat, 380015",,23.0213053,72.5435185,OpenStreetMap,380015.0,street
+"Netr-The Eye Care Clinic, Ahmedabad",Clinic,Ahmedabad,"Satellite Road, Ramdev nagar, Gujarat, 380008",,23.0280247,72.5263859,OpenStreetMap,380008.0,street
+Shyam Urological Hospital,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380006",,23.0193453,72.5572944,OpenStreetMap,380006.0,street
+Smt Shobhadevi Ent Hospital,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 380007",,23.064969,72.6426845,OpenStreetMap,380007.0,street
+Gujarat Institute Of Psnchological Sciences Hospit,Hospital,Ahmedabad,"100 Ft. Road, Ambawadi, Gujarat, 380015",,23.0185504,72.5362779,OpenStreetMap,380015.0,street
+Abhisek Maternity and Nursing Home,Hospital,Ahmedabad,"Bileshwar Mahadev Road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0157929,72.5243381,OpenStreetMap,380015.0,street
+Nishant E N T Hospital,Hospital,Ahmedabad,"Ashram Road, Ambawadi, Gujarat, 380006",,23.0168791,72.5667813,OpenStreetMap,380006.0,street
+"Siddhivinayak Hospital, Ahmedabad",Hospital,Ahmedabad,"Parimal Underpass, Ambawadi, Gujarat, 380006",,23.0175456,72.5576954,OpenStreetMap,380006.0,street
+Sitababa Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380061",,23.0626813,72.5377853,OpenStreetMap,380061.0,street
+Smruti Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380001",,23.0054634,72.5904116,OpenStreetMap,380001.0,street
+Raj Maternity Home,Hospital,Ahmedabad,"BRTS Station, Isanpur, Gujarat, 380050",,22.979024,72.6105885,OpenStreetMap,380050.0,street
+The Gujarat Research and Medical Institute ( Rajasthan Hospital),Hospital,Ahmedabad,"Navroji Pestonji Vakil Marg, Shahibaug, Gujarat, 380021",,23.0552899,72.5969093,OpenStreetMap,380021.0,street
+Clear Vision Eye Hospital( Unit 1),Hospital,Ahmedabad,"120 Circular Road, Ranna Park, Gujarat, 380007",,23.0030081,72.5551459,OpenStreetMap,380007.0,street
+Rangshree Clinic,Clinic,Ahmedabad,"Ishwar Bhuvan Road, Usmanpura, Ahmedabad, Gujarat, 380009",,23.0429384,72.5579488,OpenStreetMap,380009.0,street
+Shreeji Maternity and Surgical Nursing Home,Clinic,Ahmedabad,"100 Ft. Road / Anand nagar road, Jodhpur, Sarkhej, Gujarat, 380015",,23.0132205,72.5186283,OpenStreetMap,380015.0,street
+Dr J J Vora Memorial General Hospital,Hospital,Ahmedabad,"Income Tax Flyover, Usmanpura, Gujarat, 380014",,23.040701,72.5689566,OpenStreetMap,380014.0,street
+"Siddhi Vinayak Hospital, Ahmedabad",Hospital,Ahmedabad,"Punit Marg, Maninagar, Gujarat, 380008",,23.0041352,72.6064526,OpenStreetMap,380008.0,street
+Aastha Eye Care Centre,Hospital,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380061",,23.0696614,72.5428694,OpenStreetMap,380061.0,street
+Raghukul Ortho Hospital,Hospital,Ahmedabad,"Thakkarbapa Nagar Flyover, Shastri Nagar, Gujarat, 382350",,23.0395927,72.635415,OpenStreetMap,382350.0,street
+Rajput Eye Hospital,Hospital,Ahmedabad,"Ramrajya Flyover, Jantanagar -Ramol, Gujarat, 382415",,23.0129625,72.6388724,OpenStreetMap,382415.0,street
+Het Childcare Hospital,Hospital,Ahmedabad,"Khokhra Road, Khokhra, Gujarat, 380026",,23.0028217,72.6183441,OpenStreetMap,380026.0,street
+Madhuram Surgical Hospital,Hospital,Ahmedabad,"Maharana Pratap Flyover, Shastri Nagar, Gujarat, 380050",,23.0328727,72.6284051,OpenStreetMap,380050.0,street
+Dhwani General Hospital Nursing Home and Maternity Home,Hospital,Ahmedabad,"Ramrajya Flyover, Jantanagar -Ramol, Gujarat, 382415",,23.0147326,72.6449161,OpenStreetMap,382415.0,street
+"Shreyas Orthopedic Hospital, Ahmedabad",Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 380015",,23.1154284,72.5822818,OpenStreetMap,380015.0,street
+Sanjeevani Fracture andAccident Hospital,Hospital,Ahmedabad,"Hanuman sing road, Asarwa, Gujarat, 380001",,23.0487456,72.6062142,OpenStreetMap,380001.0,street
+"Paras Surgical Hospital, Ahmedabad",Hospital,Ahmedabad,"SH74, Bavla, Gujarat, 382220",,22.8323857,72.363256,OpenStreetMap,382220.0,street
+Gujarat Research And Medical Institute Hospital,Hospital,Ahmedabad,"Airport Road, Ambavadi / kubernagar, Gujarat, 380004",,23.0869528,72.628334,OpenStreetMap,380004.0,street
+Chirayu Surgical Hospital,Hospital,Ahmedabad,"Naroda Road, Sahijpur, Gujarat, 382340",,23.0633896,72.6412113,OpenStreetMap,382340.0,street
+Netralaya-The Eye Associates,Hospital,Ahmedabad,"Surendra Mangaldas Road, Ambawadi, Gujarat, 380006",,23.0193008,72.5572461,OpenStreetMap,380006.0,street
+Suvidha Orthopedic And Acccident Hospital,Hospital,Ahmedabad,"SH135, Sanand, Gujarat, 382110",,23.0005774,72.3822266,OpenStreetMap,382110.0,street
+Gayatri Childrens Hospital,Hospital,Ahmedabad,"132 Ft. Ring Road, Akhbar nagar, Gujarat, 380013",,23.0671591,72.5629981,OpenStreetMap,380013.0,street
+Chokshi Maternity Nursing Home and Sonography Clinic,Clinic,Ahmedabad,"Chanakyapuri Flyover, Karmachari Nagar, Gujarat, 380015",,23.067744,72.5442159,OpenStreetMap,380015.0,street
+Neha Children Hospitals and Neonatal Centre,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380022",,23.0031649,72.5952208,OpenStreetMap,380022.0,street
+Kavit Urosurgical Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380006",,23.0396353,72.5659411,OpenStreetMap,380006.0,street
+Auroma Ent Hospital,Hospital,Ahmedabad,"Sola Road, Gujarat, 380052",,23.0598028,72.5357951,OpenStreetMap,380052.0,street
+Sahyog General Hospital and Nursing Home,Hospital,Ahmedabad,"NH947, Makarba, Sarkhej, Gujarat, 380014",,22.9870335,72.4732058,OpenStreetMap,380014.0,street
+Jayshri Medical Hospital,Hospital,Ahmedabad,"NH8, Rabari Colony, Gujarat, 380026",,23.0048808,72.6367199,OpenStreetMap,380026.0,street
+Radha Krishna Hospital,Hospital,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380016",,23.0489175,72.6041847,OpenStreetMap,380016.0,street
+Bhadra Clinic Hospital,Hospital,Ahmedabad,"120 Feet Ring Road, Usmanpura, Gujarat, 380013",,23.0473058,72.5586636,OpenStreetMap,380013.0,street
+V and M Orthopaedic Centre,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9970288,72.6068388,OpenStreetMap,380008.0,street
+Family Care Nursing Home,Clinic,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9834589,72.601811,OpenStreetMap,380050.0,street
+Mahavir Clinic & Nursing Home,Clinic,Ahmedabad,"Tragad gam road, Godrej Garden City, Gujarat, 380019",,23.1059184,72.5696943,OpenStreetMap,380019.0,street
+"Anand Eye Hospital,(Dr. Rohit Desai)",Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0519251,72.560481,OpenStreetMap,380013.0,street
+Smt.NHL Municipal Medical College Hospital,Hospital,Ahmedabad,"Sabarmati Riverfront road, Ranna Park, Gujarat, 380006",,23.0187158,72.5714269,OpenStreetMap,380006.0,street
+Killol Children Hospital,Hospital,Ahmedabad,"Navrangpura Internal Road, Usmanpura, Gujarat, 380013",,23.0520284,72.5641722,OpenStreetMap,380013.0,street
+"CHC, Viramgam",Clinic,Ahmedabad,"SH18, Viramgam, Gujarat, 382150",,23.1278572,72.0466849,OpenStreetMap,382150.0,street
+Gujrat Diagnostic Center and Pathology Laboratory,Hospital,Ahmedabad,"Ashram Road, Ambawadi, Gujarat, 380006",,23.016489,72.5665225,OpenStreetMap,380006.0,street
+Giriraj Orthopaedic Hospital,Hospital,Ahmedabad,"Kankaria Road, Gita Mandir, Gujarat, 380022",,23.0094926,72.5988793,OpenStreetMap,380022.0,street
+Amdawad Eye Laser Hospitals Pvt Ltd,Hospital,Ahmedabad,"120 Feet Ring Road, Gulbai tekra, Gujarat, 380009",,23.027216,72.5454128,OpenStreetMap,380009.0,street
+Government Hospital Bavla,Hospital,Ahmedabad,"SH144, Bavla, Gujarat, 382220",2714232557,22.8370198,72.3661152,OpenStreetMap,382220.0,street
+Dharmachakra Clinic,Clinic,Ahmedabad,"SH1;SH20, Dhandhuka, Gujarat, 382460",,22.382661,71.9836273,OpenStreetMap,382460.0,street
+Aagam Clinic,Clinic,Ahmedabad,"SH1;SH20, Dhandhuka, Gujarat, 382460",,22.3822714,71.983956,OpenStreetMap,382460.0,street
+Nilkanth Dental Clinic,Dentist,Ahmedabad,"SH1;SH20, Dhandhuka, Gujarat, 382460",,22.3818212,71.9785534,OpenStreetMap,382460.0,street
+Shri Sai Dental Clinic,Dentist,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9658962,72.5869502,OpenStreetMap,382405.0,street
+Shree Umiya Multi Speciality Hospital,Hospital,Ahmedabad,"Kankaria Road, Gita Mandir, Gujarat, 380001",,23.019646,72.593685,OpenStreetMap,380001.0,street
+Vahedi Hospital,Hospital,Ahmedabad,"Lalbhai Kundiwala Marg, Behrampura, Gujarat, 380028",,22.999361,72.585958,OpenStreetMap,380028.0,street
+Herbal Unani Clinic,Clinic,Ahmedabad,"Jamalpur Road, Bhavna colony, Gujarat, 380001",,23.014903,72.582281,OpenStreetMap,380001.0,street
+Jankalyan Janaseva Hospital,Hospital,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9634073,72.5912646,OpenStreetMap,382405.0,street
+Shruti ENT Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.997277,72.609198,OpenStreetMap,380008.0,street
+Apollo Clinic,Clinic,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.999263,72.608319,OpenStreetMap,380008.0,street
+Child Care Surgical Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.997459,72.610435,OpenStreetMap,380008.0,street
+Mamta Maternity Home,Hospital,Ahmedabad,"Gandhi Road, Khadia, Ahmedabad, Gujarat, 380001",,23.0234972,72.5946245,OpenStreetMap,380001.0,street
+LM Referral Hospital,Hospital,Ahmedabad,"Kankaria Road, Gita Mandir, Gujarat, 380001",,23.018949,72.597401,OpenStreetMap,380001.0,street
+Mysorewala Surgical Hospital,Hospital,Ahmedabad,"Nadawadani Pole, Khadia, Ahmedabad, Gujarat, 380001",,23.0210847,72.5900772,OpenStreetMap,380001.0,street
+"Avishkar Multi Speciality, ICU and Trauma Centre",Hospital,Ahmedabad,"Guruji Flyover, Dalal Colony, Gujarat, 380002",,22.988104,72.611857,OpenStreetMap,380002.0,street
+Shree Jee Eye and Orthopedic Hospital,Hospital,Ahmedabad,"Relief Road, Revdi Bazar, Gujarat, 380002",,23.028639,72.596633,OpenStreetMap,380002.0,street
+Chanchalba Maternity Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9995851,72.6003159,OpenStreetMap,380008.0,street
+Dr. Ramanlal Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.998028,72.600585,OpenStreetMap,380008.0,street
+Kilu ENT Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9970061,72.6063718,OpenStreetMap,380008.0,street
+Aksharamrut Dental Clinic,Dentist,Ahmedabad,"Kankaria Road, Gita Mandir, Gujarat, 380001",,23.018885,72.59432,OpenStreetMap,380001.0,street
+Tiwaris Dental Clinic,Dentist,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.998825,72.607965,OpenStreetMap,380008.0,street
+Bhanu Jit Maternity and Nursing Home,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380002",,23.005749,72.595118,OpenStreetMap,380002.0,street
+Atharva Ayurveda Clinic and Panchakarma Centre,Clinic,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.997505,72.604633,OpenStreetMap,380008.0,street
+Shreeji Dental Clinic and Implant Centre,Dentist,Ahmedabad,"Punit Marg, Maninagar, Gujarat, 380008",,22.999845,72.606431,OpenStreetMap,380008.0,street
+Madhavbaug Clinic,Clinic,Ahmedabad,"Vatwa Road, Maninagar, Gujarat, 380008",,23.000113,72.603228,OpenStreetMap,380008.0,street
+Maninagar Dental Hospital and Implant Centre,Dentist,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9974318,72.6050866,OpenStreetMap,380008.0,street
+Chhapan Hospital,Hospital,Ahmedabad,"Tankshal Road, Khadia, Ahmedabad, Gujarat, 380001",,23.02645,72.591737,OpenStreetMap,380001.0,street
+Shree Shakti General Hospital,Hospital,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9666916,72.5893488,OpenStreetMap,382405.0,street
+Sneh Clinic,Clinic,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,22.998786,72.608215,OpenStreetMap,380008.0,street
+Artificial Eye Surgery,Hospital,Ahmedabad,"Punit Marg, Maninagar, Gujarat, 380008",,23.002052,72.607654,OpenStreetMap,380008.0,street
+Rupam Women's Clinic,Clinic,Ahmedabad,"BRTS Route, Rambag, Gujarat, 380008",,22.9982724,72.5943965,OpenStreetMap,380008.0,street
+Pinakin Dalal Hospital,Hospital,Ahmedabad,"Relief Road, Revdi Bazar, Gujarat, 380001",,23.029419,72.5933157,OpenStreetMap,380001.0,street
+Maryam Hospital,Hospital,Ahmedabad,"NH8, DaniLimda, Gujarat, 380028",,22.981501,72.588856,OpenStreetMap,380028.0,street
+Gurunanak Hospital,Hospital,Ahmedabad,"Punit Nagar Road, Maninagar, Gujarat, 380008",,22.984428,72.616878,OpenStreetMap,380008.0,street
+Hazrat Amina BIbi Hospital,Hospital,Ahmedabad,"Shah Alam Road, Shah E Alam Roza, Gujarat, 380028",,22.9947749,72.5884667,OpenStreetMap,380028.0,street
+Sambhav General Hospital,Hospital,Ahmedabad,"Lalbhai Kundiwala Marg, Behrampura, Gujarat, 380022",,23.006527,72.583296,OpenStreetMap,380022.0,street
+Niruj Rheumotogy Clinic,Clinic,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9981001,72.6021433,OpenStreetMap,380008.0,street
+Kushi Women Hospital,Hospital,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar, Gujarat, 380008",,23.000266,72.608195,OpenStreetMap,380008.0,street
+Mithakhali Stavya Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9969506,72.601663,OpenStreetMap,380008.0,street
+Premal Dental Clinic,Dentist,Ahmedabad,"Punit Marg, Maninagar, Gujarat, 380008",,23.0029601,72.6075452,OpenStreetMap,380008.0,street
+Narol ICU and Multi Speciality Hospital,Hospital,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9646691,72.5903719,OpenStreetMap,382405.0,street
+Dr. Dave Eye Care,Clinic,Ahmedabad,"Punit Marg, Maninagar, Gujarat, 380008",,22.999176,72.607469,OpenStreetMap,380008.0,street
+Jatan Children Hospital,Hospital,Ahmedabad,"Swami Vivekananda Road, Gita Mandir, Ahmedabad, Gujarat, 380001",,23.019026,72.593349,OpenStreetMap,380001.0,street
+Little Flower Neonatal and Pediatric Super Speciality Hospital,Hospital,Ahmedabad,"Uttam nagar park road, Uttamnagar, Gujarat, 380008",,22.993645,72.607322,OpenStreetMap,380008.0,street
+Parikh Orthopedic Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.996403,72.608657,OpenStreetMap,380008.0,street
+Divya Children's Hospital,Hospital,Ahmedabad,"NH8, Sarangpur, Gujarat, 380001",,23.023421,72.597732,OpenStreetMap,380001.0,street
+Chinubhai Baronet Hospital,Hospital,Ahmedabad,"Gandhi Road, Revdi Bazar, Gujarat, 380002",,23.024842,72.598982,OpenStreetMap,380002.0,street
+Navdeep Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380002",,23.003436,72.596416,OpenStreetMap,380002.0,street
+Hindu Muslim Ekta Trust Hospital,Hospital,Ahmedabad,"Danapith Road, Gita Mandir, Ahmedabad, Gujarat, 380001",,23.012988,72.587951,OpenStreetMap,380001.0,street
+Dr. Tanumati Shah Hospital,Hospital,Ahmedabad,"Relief Road, Revdi Bazar, Gujarat, 380001",,23.029011,72.592461,OpenStreetMap,380001.0,street
+Munsipal Hospital,Hospital,Ahmedabad,"Ashok Bhatt Flyover, Behrampura, Gujarat, 380043",,23.009168,72.585876,OpenStreetMap,380043.0,street
+Mediclaim Hospital,Hospital,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9646606,72.5934357,OpenStreetMap,382405.0,street
+Maya Maternity Hospital,Hospital,Ahmedabad,"BRTS Route, Uttamnagar, Gujarat, 380008",,22.9949326,72.6075168,OpenStreetMap,380008.0,street
+Chhipa Welfare Trust Hospital,Hospital,Ahmedabad,"Danapith Road, Gita Mandir, Ahmedabad, Gujarat, 380001",,23.015985,72.587351,OpenStreetMap,380001.0,street
+TB Hospital,Hospital,Ahmedabad,"Danapith Road, Gita Mandir, Ahmedabad, Gujarat, 380001",,23.0151021,72.5908296,OpenStreetMap,380001.0,street
+Jay Orthopedic Hospital,Hospital,Ahmedabad,"Relief Road, Khadia, Ahmedabad, Gujarat, 380001",,23.02691,72.587214,OpenStreetMap,380001.0,street
+Lavanya Clinic,Clinic,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380008",,22.9928912,72.6031299,OpenStreetMap,380008.0,street
+Diya Clinic,Clinic,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.96343,72.589033,OpenStreetMap,382405.0,street
+Gandhi Charitable Homeopathy Clinic,Clinic,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.9964298,72.6098995,OpenStreetMap,380008.0,street
+Sharda Surgical Hospital,Hospital,Ahmedabad,"Lala Lajpat Rai Marg, Uttamnagar, Gujarat, 380008",,22.997027,72.609335,OpenStreetMap,380008.0,street
+Sheth Jamnabhai Bhagubhai Trust,Hospital,Ahmedabad,"Tankshal Road, Khadia, Ahmedabad, Gujarat, 380001",,23.0259793,72.5919014,OpenStreetMap,380001.0,street
+Shivam Children Hospital and Pediatric Critical Care Centre,Hospital,Ahmedabad,"Vatwa Road, Maninagar, Gujarat, 380008",,23.0003225,72.6037424,OpenStreetMap,380008.0,street
+Parijat Children Hospital,Hospital,Ahmedabad,"Saminarayan Mandir Road, Dariyapur, Ahmedabad, Gujarat, 380001",,23.0293947,72.5905625,OpenStreetMap,380001.0,street
+Aaditya Spine Hospital,Hospital,Ahmedabad,"120 Circular Road, Kankaria, Gujarat, 380002",,23.0058864,72.5917151,OpenStreetMap,380002.0,street
+Unique Speciality Clinic,Clinic,Ahmedabad,"NH8, DaniLimda, Gujarat, 380028",,22.9821082,72.5859446,OpenStreetMap,380028.0,street
+Safal Children Hospital,Hospital,Ahmedabad,"120 Feet Circular Road, DaniLimda, Gujarat, 380028",,23.0012666,72.5877721,OpenStreetMap,380028.0,street
+Janani Women and Children Hospital,Hospital,Ahmedabad,"Flyover, Isanpur, Gujarat, 382405",,22.9644685,72.590532,OpenStreetMap,382405.0,street
+Devam Hospital,Hospital,Ahmedabad,"Nathalal Jhagadia Bridge, Maninagar East, Gujarat, 380008",,23.000081,72.608487,OpenStreetMap,380008.0,street
+Matru Chhaya Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.954141,72.612253,OpenStreetMap,382440.0,street
+Remedy Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.983088,72.600519,OpenStreetMap,380050.0,street
+Sparsh Multi Speciality Hospital,Hospital,Ahmedabad,"Punit Nagar Road, Gujarat, 380050",,22.966305,72.624931,OpenStreetMap,380050.0,street
+Dirgayu Orthopedic Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382443",,22.9768837,72.6010063,OpenStreetMap,382443.0,street
+Suman Hospital,Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 380050",,22.981475,72.611161,OpenStreetMap,380050.0,street
+Kashiba General Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.953285,72.615888,OpenStreetMap,382440.0,street
+Vimala Hospital,Hospital,Ahmedabad,"Swami Bapa Smruti Mandir Road, Isanpur, Gujarat, 380050",,22.967894,72.617867,OpenStreetMap,380050.0,street
+Doctor Bhatt's Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382405",,22.971831,72.604727,OpenStreetMap,382405.0,street
+Medicure Hospital,Hospital,Ahmedabad,"Narol Flyover, Isanpur, Gujarat, 382405",,22.9704828,72.5931204,OpenStreetMap,382405.0,street
+Ratan Hospital,Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 382443",,22.977063,72.592925,OpenStreetMap,382443.0,street
+Dhanwantari Clinic,Clinic,Ahmedabad,"Lambha Mandir Road, Narol gam, Gujarat, 382440",,22.9490816,72.5969718,OpenStreetMap,382440.0,street
+Smruti Multi Speciality Hospital,Hospital,Ahmedabad,"Swami Bapa Smruti Mandir Road, Isanpur, Gujarat, 380050",,22.974308,72.611594,OpenStreetMap,380050.0,street
+Abhinav Clinic,Clinic,Ahmedabad,"Sardar Patel Ring Road, Narol gam, Gujarat, 382440",,22.9457646,72.6212151,OpenStreetMap,382440.0,street
+Harsh Hospital,Hospital,Ahmedabad,"Vatva railway station road, Gujarat, 382445",,22.9515073,72.6244409,OpenStreetMap,382445.0,street
+Shakur Children Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.979498,72.5983418,OpenStreetMap,382443.0,street
+Abhinav Hospital,Hospital,Ahmedabad,"Swami Bapa Smruti Mandir Road, Isanpur, Gujarat, 380050",,22.9664477,72.6159949,OpenStreetMap,380050.0,street
+Lambha Skin Hospital,Hospital,Ahmedabad,"Lambha Mandir Road, Narol gam, Gujarat, 382405",,22.9339127,72.5760578,OpenStreetMap,382405.0,street
+Chiranjeevi Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382443",,22.975087,72.601692,OpenStreetMap,382443.0,street
+Ashirvad Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.979475,72.601175,OpenStreetMap,380050.0,street
+Roshan General Hospital,Hospital,Ahmedabad,"Vallabh Park 4th lane, Narol gam, Gujarat, 380050",,22.963029,72.61044,OpenStreetMap,380050.0,street
+Jyoti Eye Care Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9831626,72.6028164,OpenStreetMap,380050.0,street
+Dr. Pandya's Maternity Nursing Home,Hospital,Ahmedabad,"Vatwa Road, Uttamnagar, Gujarat, 380050",,22.9857798,72.6024947,OpenStreetMap,380050.0,street
+Shyam Clinic,Clinic,Ahmedabad,"Vatva railway station road, Gujarat, 382445",,22.9504545,72.6221998,OpenStreetMap,382445.0,street
+Life Care Clinic,Clinic,Ahmedabad,"Vatva railway station road, Gujarat, 382445",,22.9493294,72.6238761,OpenStreetMap,382445.0,street
+Eye Sight Vision Care Hospital,Hospital,Ahmedabad,"BRTS Station, Isanpur, Gujarat, 380050",,22.978896,72.610165,OpenStreetMap,380050.0,street
+New Shraddha Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.9797902,72.5969418,OpenStreetMap,382443.0,street
+Vedanth Medical Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.981784,72.606863,OpenStreetMap,380050.0,street
+Shree Gurukrupa Clinic,Clinic,Ahmedabad,"Vatwa Flyover, Gujarat, 382440",,22.952831,72.616696,OpenStreetMap,382440.0,street
+Krishna General Hospital,Hospital,Ahmedabad,"Sardar Patel Ring Road, Narol gam, Gujarat, 382440",,22.93826,72.614834,OpenStreetMap,382440.0,street
+Balaji Speciality Hospital,Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 380050",,22.978245,72.611169,OpenStreetMap,380050.0,street
+Noble Clinic,Clinic,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382443",,22.977722,72.600505,OpenStreetMap,382443.0,street
+Pramukh Hospital and Research Centre,Hospital,Ahmedabad,"Sardar Patel Ring Road, Narol gam, Gujarat, 382440",,22.9382867,72.6149817,OpenStreetMap,382440.0,street
+Indira Women's Care and Multi Speciality Hospital,Hospital,Ahmedabad,"Lambha Mandir Road, Narol gam, Gujarat, 382440",,22.948094,72.598012,OpenStreetMap,382440.0,street
+Seva Clinic,Clinic,Ahmedabad,"Vallabh Park 4th lane, Narol gam, Gujarat, 380050",,22.9629705,72.6092014,OpenStreetMap,380050.0,street
+Dirdhau Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380043",,22.9820852,72.6032425,OpenStreetMap,380043.0,street
+U.N. Mehta Eye Hospital,Hospital,Ahmedabad,"Vatwa Flyover, Gujarat, 382445",,22.958951,72.618997,OpenStreetMap,382445.0,street
+Sarsij Dental Clinic,Dentist,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9807648,72.6027041,OpenStreetMap,380050.0,street
+Dr. K.B. Bhagatariya Hospital,Hospital,Ahmedabad,"Narol Flyover, Isanpur, Gujarat, 380005",,22.972368,72.5872561,OpenStreetMap,380005.0,street
+Aman Multi Speciality Hospital,Hospital,Ahmedabad,"Vallabh Park 6 Lane, Narol gam, Gujarat, 382440",,22.9605,72.608201,OpenStreetMap,382440.0,street
+Apoorva Women's Hospital,Hospital,Ahmedabad,"BRTS Station, Isanpur, Gujarat, 380050",,22.9787938,72.6097705,OpenStreetMap,380050.0,street
+Shraddha Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380028",,22.98027,72.595008,OpenStreetMap,380028.0,street
+Clear Vision Eye Hospital,Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 380050",,22.978672,72.608642,OpenStreetMap,380050.0,street
+Akshar Hospital,Hospital,Ahmedabad,"BRTS Route, Isanpur, Gujarat, 380050",,22.98106,72.610699,OpenStreetMap,380050.0,street
+Shree Nathe Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9811997,72.6023636,OpenStreetMap,380050.0,street
+Prerana Gynec and Maternity Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382405",,22.974803,72.602266,OpenStreetMap,382405.0,street
+Dr. Shah's Maternity and Nursing Home,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.9840852,72.6026036,OpenStreetMap,380050.0,street
+Chirag Clinic,Clinic,Ahmedabad,"Vallabh Park 13 lane, Narol gam, Gujarat, 382440",,22.954932,72.603897,OpenStreetMap,382440.0,street
+Shreeji Children's Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380043",,22.981784,72.6029,OpenStreetMap,380043.0,street
+Khana Clinic,Clinic,Ahmedabad,"Vallabh Park Society Road, Narol gam, Gujarat, 382440",,22.9525929,72.6023803,OpenStreetMap,382440.0,street
+Shraddha Orthopaedic Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 382443",,22.9810392,72.598519,OpenStreetMap,382443.0,street
+Safal Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.957118,72.611815,OpenStreetMap,382440.0,street
+Shraddha Children Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 380050",,22.9757579,72.6022206,OpenStreetMap,380050.0,street
+Aatman Hospital,Hospital,Ahmedabad,"Vatwa Road, Isanpur, Gujarat, 380050",,22.983673,72.6001796,OpenStreetMap,380050.0,street
+Swami Sadanand Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.9598509,72.6117361,OpenStreetMap,382440.0,street
+Chiranjeev Children Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.955252,72.612341,OpenStreetMap,382440.0,street
+Epic Clinic,Clinic,Ahmedabad,"Vallabh Park, Narol gam, Gujarat, 380050",,22.963486,72.610208,OpenStreetMap,380050.0,street
+Anand Children Hospital,Hospital,Ahmedabad,"Isanpur Flyover, Isanpur, Gujarat, 382443",,22.9769658,72.6009535,OpenStreetMap,382443.0,street
+Shri Ji Kripa Prasuti Griha Hospital,Hospital,Ahmedabad,"Vallabh Park 5 lane, Narol gam, Gujarat, 382440",,22.953387,72.612777,OpenStreetMap,382440.0,street
+Rameshwar Multi Speciality Hospital,Hospital,Ahmedabad,"Memco Flyover, Meghaninagar, Gujarat, 380016",,23.0582776,72.6222017,OpenStreetMap,380016.0,street
+Sevak Maternity & Surgical Hospital,Hospital,Ahmedabad,"Motera Stadium Entry Road, Sabarmati, Gujarat, 380005",,23.096892,72.596062,OpenStreetMap,380005.0,street
+Trimurti Hospital,Hospital,Ahmedabad,"NH47, Bavla, Gujarat, 382220",,22.8333954,72.3564164,OpenStreetMap,382220.0,street
+Navjivan Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.114943,72.581545,OpenStreetMap,382424.0,street
+Gayatri X Ray Clinic and Health Care,Clinic,Ahmedabad,"Memco Flyover, Sahijpur boga, Gujarat, 380038",,23.059159,72.62133,OpenStreetMap,380038.0,street
+Munciapl Prasuti Hospital,Hospital,Ahmedabad,"Kasturba Gandhi Road, Madhupura, Gujarat, 380001",,23.0376047,72.5798849,OpenStreetMap,380001.0,street
+Arihant Hospital,Hospital,Ahmedabad,"kuberji road, Dholka, Gujarat, 382225",,22.730733,72.4399816,OpenStreetMap,382225.0,street
+Pushp Hospital and Maternity Home,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.114332,72.578769,OpenStreetMap,382424.0,street
+Devarshi Super Speciality Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.122105,72.582052,OpenStreetMap,382424.0,street
+Brinda Maternity Nursing Home,Hospital,Ahmedabad,"kuberji road, Dholka, Gujarat, 382225",,22.727207,72.438565,OpenStreetMap,382225.0,street
+Adhvait Psychiatry Hospital,Hospital,Ahmedabad,"RiverFront Road, Madhupura, Gujarat, 380004",,23.038118,72.576487,OpenStreetMap,380004.0,street
+Faiz Hospital,Hospital,Ahmedabad,"NH8, DaniLimda, Gujarat, 380028",,22.996289,72.5794455,OpenStreetMap,380028.0,street
+Shahpur Medical Hospital,Hospital,Ahmedabad,"RiverFront Road, Madhupura, Gujarat, 380001",,23.0360108,72.5781671,OpenStreetMap,380001.0,street
+Krishna Maternity and Nursing Home,Hospital,Ahmedabad,"BRTS Route, Madhupura, Gujarat, 380004",,23.045083,72.5815979,OpenStreetMap,380004.0,street
+Rajdip Children Hospital,Hospital,Ahmedabad,"SH41, Sabarmati, Gujarat, 382424",,23.08992,72.590307,OpenStreetMap,382424.0,street
+Navodaya Hospital for Neonates and Children,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.1112092,72.5847083,OpenStreetMap,382424.0,street
+ESIC Hospital,Hospital,Ahmedabad,"Maharana Pratap Circle, Shahibaug, Gujarat, 380004",,23.053458,72.589815,OpenStreetMap,380004.0,street
+Chandkheda Orthopedic & Surgical Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.113705,72.583096,OpenStreetMap,382424.0,street
+Parimal Hospital,Hospital,Ahmedabad,"Motera Stadium Entry Road, Sabarmati, Gujarat, 380005",,23.0958571,72.5958301,OpenStreetMap,380005.0,street
+Raj Hospital,Hospital,Ahmedabad,"SH16, Dholka, Gujarat, 382225",,22.718631,72.437575,OpenStreetMap,382225.0,street
+Shivam Surgical and Dental Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.114583,72.582827,OpenStreetMap,382424.0,street
+Maheshwari Children Hospital,Hospital,Ahmedabad,"Kasturba Gandhi Road, Madhupura, Gujarat, 380004",,23.0403546,72.5795035,OpenStreetMap,380004.0,street
+Life Care Clinic,Clinic,Ahmedabad,"SH142, Gujarat, 380022",,22.9877498,72.5673496,OpenStreetMap,380022.0,street
+Sagar Multi Speciality Hospital,Hospital,Ahmedabad,"BRTS Station, Dudheshwar, Gujarat, 380004",,23.048956,72.581574,OpenStreetMap,380004.0,street
+Kamal Hospital,Hospital,Ahmedabad,"Memco Flyover, Meghaninagar, Gujarat, 380016",,23.059688,72.61811,OpenStreetMap,380016.0,street
+Mumtaz Hospital,Hospital,Ahmedabad,"BRTS Station, DaniLimda, Gujarat, 380028",,22.9966232,72.5785891,OpenStreetMap,380028.0,street
+Gcs Hospital,Hospital,Ahmedabad,"Hanuman sing road, Asarwa, Gujarat, 380016",,23.0465734,72.6082995,OpenStreetMap,380016.0,street
+Shreeja Krupa Children Hospital,Hospital,Ahmedabad,"RiverFront Road, Khadia, Ahmedabad, Gujarat, 380001",,23.032378,72.5774069,OpenStreetMap,380001.0,street
+Parshwanath General Hospital,Hospital,Ahmedabad,"NH751, Dholka, Gujarat, 382225",,22.744053,72.44004,OpenStreetMap,382225.0,street
+Shraddha Multi Speciality Hospital,Hospital,Ahmedabad,"RiverFront Road, Khadia, Ahmedabad, Gujarat, 380001",,23.032023,72.577351,OpenStreetMap,380001.0,street
+Dr. Harsha Tripathy Eye Hospital,Hospital,Ahmedabad,"SH74, Bavla, Gujarat, 382220",,22.836153,72.366132,OpenStreetMap,382220.0,street
+Neuron Neuro Surgical Hospital,Hospital,Ahmedabad,"RiverFront Road, Madhupura, Gujarat, 380001",,23.037853,72.576397,OpenStreetMap,380001.0,street
+Military Hospital,Hospital,Ahmedabad,"Duffnala Road, Shahibaug, Gujarat, 380016",,23.058909,72.601892,OpenStreetMap,380016.0,street
+Krishna Hospital,Hospital,Ahmedabad,"Kasturba Gandhi Road, Madhupura, Gujarat, 380004",,23.0402323,72.5777147,OpenStreetMap,380004.0,street
+Ansh Multispeciality Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.114667,72.580661,OpenStreetMap,382424.0,street
+Sonal Maternity Hospital,Hospital,Ahmedabad,"Sant Rohidas Road, Kalapi nagar, Gujarat, 380016",,23.0547951,72.6208766,OpenStreetMap,380016.0,street
+Sentara Multispeciality Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.1125242,72.5834513,OpenStreetMap,382424.0,street
+Shri Hari Krishna Multi Speciality Hospital,Hospital,Ahmedabad,"kuberji road, Dholka, Gujarat, 382225",,22.727869,72.437637,OpenStreetMap,382225.0,street
+Lokhandwala General Hospital,Hospital,Ahmedabad,"Gheekanta Road, Revdi Bazar, Gujarat, 380001",,23.0347002,72.5951832,OpenStreetMap,380001.0,street
+Bachardas Lashkari Hospital,Hospital,Ahmedabad,"Kasturba Gandhi Road, Dariyapur, Ahmedabad, Gujarat, 380001",,23.035637,72.588423,OpenStreetMap,380001.0,street
+Shubham General Hospital,Hospital,Ahmedabad,"SH74, Gujarat, 382220",,22.8284149,72.3582537,OpenStreetMap,382220.0,street
+Rhythm Heart and Medical Hospital,Hospital,Ahmedabad,"SH41, Chandkheda, Gujarat, 382424",,23.113388,72.583182,OpenStreetMap,382424.0,street
+J K Dental Hospital,Dentist,Ahmedabad,"SH71, Gujarat, 382424",,23.1008525,72.5925013,OpenStreetMap,382424.0,street
+Lotus Multispeciality Hospital,Hospital,Ahmedabad,"Asharam ashram road, Gujarat, 380005",,23.1044464,72.6025578,OpenStreetMap,380005.0,street
+Namrata Heart and Medical Clinic,Clinic,Ahmedabad,"Jethabhai Parmar Garden Path, Girdharnagar, Gujarat, 380004",,23.048981,72.601662,OpenStreetMap,380004.0,street
+Sethwala Hospital,Hospital,Ahmedabad,"kuberji road, Dholka, Gujarat, 382225",,22.7262642,72.4408365,OpenStreetMap,382225.0,street
+Shivsagar Hospital,Hospital,Ahmedabad,"SH74, Bavla, Gujarat, 382220",,22.835201,72.365566,OpenStreetMap,382220.0,street
+Gujarat State Police Welfare Hospital,Hospital,Ahmedabad,"Airport Road, Shahibaug, Gujarat, 380004",,23.055335,72.590092,OpenStreetMap,380004.0,street
+Ashirwad Maternity and Nursing Home,Hospital,Ahmedabad,"Sant Rohidas Road, Kalapi nagar, Gujarat, 380016",,23.056258,72.620709,OpenStreetMap,380016.0,street
+New Life Hospital,Hospital,Ahmedabad,"BRTS Station, DaniLimda, Gujarat, 380028",,22.995486,72.579059,OpenStreetMap,380028.0,street
