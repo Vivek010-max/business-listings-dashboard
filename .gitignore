@@ -42,3 +42,11 @@ scraper/business_listings_enriched.csv
 *.db
 *.sqlite
 *.sqlite3
+
+# Final data-processing intermediates
+scraper/multicity_raw.csv
+scraper/missing_addresses.csv
+scraper/business_listings_final_before_address_enrichment.csv
+
+# Database backups
+listing_master_backup.sql

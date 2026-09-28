@@ -17,9 +17,9 @@ import "./dashboard.css";
 const API_BASE = "http://localhost:8000";
 
 // The exact "Warm Greyscale" palette
-const WARM_WHITE = "#FAF9F7";
-const WARM_BLACK = "#1C1B1A";
-const WARM_GREY = "#A8A29E";
+const WARM_WHITE = "#F8F3EC";
+const WARM_BLACK = "#3a3a3a";
+const WARM_GREY = "#343434";
 
 // Using opacities of the palette to support multiple categories
 const CATEGORY_COLORS = {
@@ -27,7 +27,7 @@ const CATEGORY_COLORS = {
   "IT Services": WARM_GREY, 
   Healthcare: "rgba(28, 27, 26, 0.7)", // 70% Warm Black
   Education: "rgba(168, 162, 158, 0.5)", // 50% Warm Grey
-  "Real Estate": "rgba(28, 27, 26, 0.4)", // 40% Warm Black
+  "Real Estate": "rgba(19, 17, 15, 0.4)", // 40% Warm Black
 };
 
 // Exact 1-to-1 mapping of the three colors for the three sources
@@ -150,6 +150,35 @@ export default function Dashboard() {
     [categoryData]
   );
 
+  const maxCityValue = useMemo(
+    () => Math.max(0, ...cityData.map((item) => item.count)),
+    [cityData]
+  );
+
+  const maxCategoryValue = useMemo(
+    () => Math.max(0, ...categoryData.map((item) => item.count)),
+    [categoryData]
+  );
+
+  const cityChartData = useMemo(
+    () =>
+      cityData.map((item) => ({
+        ...item,
+        visualCount: Math.sqrt(Math.max(item.count, 1)),
+      })),
+    [cityData]
+  );
+
+  const categoryBarChartData = useMemo(
+    () =>
+      categoryData.map((item) => ({
+        ...item,
+        visualCount: Math.sqrt(Math.max(item.count, 1)),
+        fill: CATEGORY_COLORS[item.category] || WARM_GREY,
+      })),
+    [categoryData]
+  );
+
   const topCategory = categoryData[0];
 
   return (
@@ -158,16 +187,9 @@ export default function Dashboard() {
         {/* Header */}
         <header className="topbar">
           <div>
-            <div className="brand-label">HONEYBEE INTERN ASSIGNMENT</div>
-            <h1>Directory Overview</h1>
-            <p className="header-description">
-              Gujarat business listings data ingested via API.
-            </p>
-          </div>
-          <div className="status-badge">
-            <span className="status-dot"></span>
-            System Online
-          </div>
+             <h1>Directory Overview</h1>
+                </div>
+          
         </header>
 
         {/* Loading & Error States */}
@@ -233,15 +255,14 @@ export default function Dashboard() {
               <div className="chart-card chart-card-large">
                 <div className="chart-header">
                   <div>
-                    <div className="chart-label">GEOGRAPHIC DATA</div>
+                    
                     <h2>Listings by City</h2>
-                    <p>Concentration of records across key locations.</p>
-                  </div>
+                      </div>
                 </div>
                 <div className="chart-area city-chart">
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                      data={cityData}
+                      data={cityChartData}
                       margin={{ top: 20, right: 15, left: 0, bottom: 10 }}
                     >
                       <CartesianGrid
@@ -259,6 +280,8 @@ export default function Dashboard() {
                       <YAxis
                         axisLine={false}
                         tickLine={false}
+                        domain={[0, Math.ceil(Math.sqrt(maxCityValue)) || 1]}
+                        tickFormatter={(value) => formatNumber(Math.round(value ** 2))}
                         tick={{ fill: WARM_BLACK, fontSize: 13, fontWeight: 500 }}
                         dx={-10}
                       />
@@ -266,10 +289,10 @@ export default function Dashboard() {
                         contentStyle={tooltipStyle}
                         itemStyle={{ color: WARM_BLACK, fontWeight: 500 }}
                         cursor={{ fill: "rgba(28, 27, 26, 0.04)" }}
-                        formatter={(value) => [formatNumber(value), "Listings"]}
+                        formatter={(_value, _name, item) => [formatNumber(item?.payload?.count ?? _value), "Listings"]}
                       />
                       <Bar
-                        dataKey="count"
+                        dataKey="visualCount"
                         fill={WARM_BLACK}
                         radius={[4, 4, 4, 4]}
                         maxBarSize={60}
@@ -283,10 +306,8 @@ export default function Dashboard() {
               <div className="chart-card">
                 <div className="chart-header">
                   <div>
-                    <div className="chart-label">ORIGIN DATA</div>
-                    <h2>Data Sources</h2>
-                    <p>Where the listings were acquired.</p>
-                  </div>
+                     <h2>Single Data source</h2>
+                      </div>
                 </div>
                 <div className="chart-area source-chart">
                   <ResponsiveContainer width="100%" height="100%">
@@ -328,22 +349,19 @@ export default function Dashboard() {
               <div className="chart-card chart-card-full">
                 <div className="chart-header category-header">
                   <div>
-                    <div className="chart-label">SECTOR DATA</div>
-                    <h2>Listings by Category</h2>
-                    <p>Distribution across business types.</p>
-                  </div>
+                        <h2>Listings by Category</h2>
+                     </div>
                   {topCategory && (
                     <div className="highlight-box">
                       <span>Highest Volume</span>
                       <strong>{topCategory.name}</strong>
-                      <small>{formatNumber(topCategory.count)} listings</small>
-                    </div>
+                       </div>
                   )}
                 </div>
                 <div className="chart-area category-chart">
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                      data={categoryChartData}
+                      data={categoryBarChartData}
                       margin={{ top: 25, right: 15, left: 0, bottom: 10 }}
                     >
                       <CartesianGrid
@@ -362,17 +380,19 @@ export default function Dashboard() {
                       <YAxis
                         axisLine={false}
                         tickLine={false}
+                        domain={[0, Math.ceil(Math.sqrt(maxCategoryValue)) || 1]}
+                        tickFormatter={(value) => formatNumber(Math.round(value ** 2))}
                         tick={{ fill: WARM_BLACK, fontSize: 13, fontWeight: 500 }}
                         dx={-10}
                       />
                       <Tooltip
                         contentStyle={tooltipStyle}
                         itemStyle={{ color: WARM_BLACK, fontWeight: 500 }}
-                        cursor={{ fill: "rgba(28, 27, 26, 0.04)" }}
-                        formatter={(value) => [formatNumber(value), "Listings"]}
+                        cursor={{ fill: "rgba(0, 0, 0, 0)" }}
+                        formatter={(_value, _name, item) => [formatNumber(item?.payload?.count ?? _value), "Listings"]}
                       />
-                      <Bar dataKey="count" radius={[4, 4, 4, 4]} maxBarSize={55}>
-                        {categoryChartData.map((entry) => (
+                      <Bar dataKey="visualCount" radius={[4, 4, 4, 4]} maxBarSize={55}>
+                        {categoryBarChartData.map((entry) => (
                           <Cell key={entry.name} fill={entry.fill} />
                         ))}
                       </Bar>
@@ -382,13 +402,7 @@ export default function Dashboard() {
               </div>
             </section>
 
-            {/* Footer */}
-            <footer className="dashboard-footer">
-              <span>Vivek - Honeybee Digital Assignment</span>
-              <span>
-                {formatNumber(stats.totalListings)} Records Connected
-              </span>
-            </footer>
+           
           </>
         )}
       </div>
